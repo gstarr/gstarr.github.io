@@ -1,2 +1,2 @@
 # projects
-projects and blogs list using jekyll
+projects and blogs list built using jekyll
