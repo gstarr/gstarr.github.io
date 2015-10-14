@@ -1,3 +1,3 @@
 #Projects
 
-projects and blogs list using jekyll
+Projects list using jekyll
