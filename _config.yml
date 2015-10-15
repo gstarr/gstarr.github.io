@@ -1,8 +1,8 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           http://gstarr.me/projects/
-relative_permalinks: false
+permalink:           /projects/
+relative_permalinks: true
 
 # Setup
 title:               Graham Starr's Projects
