@@ -1,14 +1,22 @@
-# Site settings
-title: Graham Starr's Projects
-email: hello@gstarr.me
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/projects/"
-url: "http://gstarr.me/projects" # the base hostname & protocol for your site
-twitter_username: grahamstarr
-github_username:  gstarr
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
 
-# Build settings
-markdown: kramdown
+# Setup
+title:               Graham Starr's Projects
+tagline:             ''
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://gstarr.me/projects
+baseurl:             '/projects/'
+paginate:            5
+
+# About/contact
+author:
+  name:              Graham Starr
+  url:               https://twitter.com/grahamstarr
+  email:             hello@gstarr.me
+
+# Custom vars
+version:             Theme built using <a href="http://lanyon.getpoole.com/">Lanyon</a> the open source theme for Jekyll.
