@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Graham Starr's Projects
+title:               Projects | Graham Starr
 tagline:             ''
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         'A projects page for <a href="http://gstarr.me" target="_blank">Graham Starr</a>, built with Jekyll using <a href="https://github.com/poole/lanyon" target="_blank">Lanyon</a>.'
 url:                 http://gstarr.me/projects
 baseurl:             '/projects/'
 paginate:            5
@@ -15,7 +15,7 @@ paginate:            5
 # About/contact
 author:
   name:              Graham Starr
-  url:               https://twitter.com/grahamstarr
+  url:               http://gstarr.me/
   email:             hello@gstarr.me
 
 # Custom vars
