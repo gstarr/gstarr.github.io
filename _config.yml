@@ -4,7 +4,7 @@ email:       hello@gstarr.me
 author:      Graham Starr
 description: "Graham Starr's projects, hosted on Github."
 baseurl:     "/projects"
-url:         "http://gstarr.me"
+url:         "http://gstarr.me/projects"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -58,8 +58,8 @@ share_hackernews: false
 # Build settings
 markdown:     kramdown
 redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
+  extensions: ['smart', 'tables', 'with_toc_data', 'no_intra_emphasis', 'fenced_code_blocks', 'strikethrough', 'highlight', 'underline', 'footnotes']
 permalink:    pretty
-paginate:     4
+paginate:     10
 sass:
   compressed: true
