@@ -4,7 +4,7 @@ title: About | Graham Starr
 permalink: /about/
 ---
 
-=Graham Starr= is a New York-based writer.
+**Graham Starr** is a New York-based writer who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just physical objects or products.
 
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
