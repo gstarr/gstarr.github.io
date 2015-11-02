@@ -54,8 +54,10 @@ layout: default
   <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%" data-numposts="{{ site.facebook_comments_number }}"></div>
 {% endif %}
 
+<center>* * *</center>
+
 {% if site.show_related_posts %}
-  <h3 class="related-post-title">Related Posts</h3>
+  <h3 class="related-post-title"><center>Related Posts</center></h3>
   {% for post in site.related_posts %}
     <div class="post ml2">
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
