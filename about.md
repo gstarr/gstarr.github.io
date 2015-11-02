@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About Pixyll
+title: About | Graham Starr
 permalink: /about/
 ---
+
+=Graham Starr= is a New York-based writer.
 
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
