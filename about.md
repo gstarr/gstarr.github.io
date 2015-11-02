@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About | Graham Starr
+title: About
 permalink: /about/
 ---
 
