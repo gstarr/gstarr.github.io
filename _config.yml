@@ -1,8 +1,8 @@
 # Site settings
-title:       Graham Starr | Projects
+title:       Projects | Graham Starr
 email:       hello@gstarr.me
 author:      Graham Starr
-description: "Graham Starr's projects, hosted on Github using Pixyll."
+description: "Graham Starr's projects, hosted on Github."
 baseurl:     "/projects"
 url:         "http://gstarr.me"
 date_format: "%b %-d, %Y"
@@ -15,7 +15,7 @@ google_verification:
 animated:             false
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    true
+show_social_icons:    false
 ajaxify_contact_form: false
 
 # Disqus post comments
