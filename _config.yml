@@ -15,7 +15,7 @@ google_verification:
 animated:             false
 show_related_posts:   true
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: true
 
 # Disqus post comments
@@ -43,8 +43,8 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: true
-share_text: 'Share this post!'
+show_sharing_icons: false
+share_text: 'Share this plz!'
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
