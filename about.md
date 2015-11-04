@@ -6,8 +6,6 @@ permalink: /about/
 
 **Graham Starr** is a New York-based writer who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just physical objects or products. He usually only speaks in the third person for one paragraph.
 
-I do things that merge creative fields, politics, and current events, and often with the help of technical or design "no-how."
-
 Nisi anim brunch DIY quis, humblebrag food truck magna dolor before they sold out hella selfies. Health goth heirloom aesthetic delectus, voluptate trust fund helvetica gentrify sustainable blue bottle quinoa. Tumblr heirloom tempor plaid. Marfa assumenda viral ea blue bottle, 90's gluten-free kickstarter laborum drinking vinegar ad narwhal schlitz. +1 mollit before they sold out readymade. Pug aute meh swag hashtag. Chicharrones pinterest cray put a bird on it fap, chambray et enim readymade narwhal fugiat qui tacos single-origin coffee eiusmod.
 
 Try-hard tousled kinfolk, meggings green juice eu paleo kickstarter deep v bushwick assumenda wolf drinking vinegar dolore poutine. Meh sriracha deep v placeat sed next level. Pinterest meh dolor, letterpress quis assumenda sustainable normcore knausgaard sint quinoa thundercats keytar green juice kombucha. Forage irony iPhone, chartreuse quinoa wayfarers schlitz exercitation gastropub. Deserunt raw denim placeat anim tumblr venmo, farm-to-table meditation narwhal cray ugh photo booth squid nihil. Sapiente put a bird on it waistcoat retro, tumblr quinoa marfa helvetica labore cardigan brunch chillwave. Farm-to-table neutra marfa street art heirloom photo booth veniam.
