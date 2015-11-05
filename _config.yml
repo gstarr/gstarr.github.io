@@ -1,8 +1,8 @@
 # Site settings
-title:       Projects | Graham Starr
+title:       Graham Starr <small>Projects and Portfolio</small>
 email:       hello@gstarr.me
 author:      Graham Starr
-description: "Graham Starr's projects, hosted on Github."
+description: "Graham Starr is a writer, designer, journalist, and humorist based in New York."
 baseurl:     "/projects"
 url:         "http://gstarr.me/projects"
 date_format: "%b %-d, %Y"
