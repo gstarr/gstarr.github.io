@@ -1,5 +1,5 @@
 ---
 layout: default
-title:
+title: <center>coming soon!</center>
 permalink: /writing/
 ---
