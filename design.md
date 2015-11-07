@@ -1,5 +1,5 @@
 ---
 layout: default
 title: 
-permalink: /design
+permalink: /design/
 ---
