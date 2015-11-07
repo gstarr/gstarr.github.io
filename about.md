@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /about/
+permalink: /
 ---
 
 **Graham Starr** is a New York-based freelance writer, strategist, and designer who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just physical objects or products. He usually only speaks in the third person for one paragraph.
