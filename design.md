@@ -1,5 +1,5 @@
 ---
 layout: default
-title: <center>coming soon!</center>
+title: Design
 permalink: /design/
 ---
