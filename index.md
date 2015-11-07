@@ -2,7 +2,6 @@
 layout: page
 title: 
 ---
-
 **Graham Starr** is a New York-based freelance writer, strategist, and designer who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just physical objects or products. He usually only speaks in the third person for one paragraph.
 
 This past summer I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Media Intern at the award-winning Christian Science Monitor in Boston. There, I served as a [staff writer](http://www.csmonitor.com/About/People/Graham-Starr) covering technology, security, privacy, and culture for the Innovations desk. I was also a digital designer for the Monitor, and the mobile and tablet lead on the website's feature redesign.
