@@ -1,6 +1,6 @@
 ---
-layout: page
-title: <center>Oh dear!</center>
+layout: center
+title: Oh dear!
 permalink: /downtherabbithole/
 ---
 
