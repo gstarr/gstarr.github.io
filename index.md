@@ -8,7 +8,7 @@ This past summer I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital
 
 My focus is technically-driven, design-minded, inclusive journalism, and I care a lot about using new media to tell powerful stories in the most effective way. I firmly believe that medium shouldn't be constricting, and so my mission is to simply design complex stories to create the most impact. An example of this can be seen with ["Phantom in Pheonix"](http://djnf.atavist.com/), an immersive, multimedia project for which I acted as digital designer and web editor.  
 
-I'm really interested in experimental approaches to media, bridging comedy, technology, and journalism in positive ways. If you'd like to talk, see more of my work, or hire me to do something cool for you, feel free to [reach out](mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21) at any time. 
+I'm really interested in experimental approaches to media, bridging comedy, technology, and journalism in positive ways. If you'd like to talk, see more of my work, or hire me to do something cool for you, feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">reach out</a> at any time. 
 
 
 <div class="home">
