@@ -10,7 +10,7 @@ My focus is technically-driven, design-minded, inclusive journalism, and I care 
 
 I'm really interested in experimental approaches to media, bridging comedy, technology, and journalism in positive ways. If you'd like to talk, see more of my work, or hire me to do something cool for you, feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">reach out</a> at any time. 
 
-<center><small>*This site is still being built, so please pay no mind to the pages that don't have anything on them.*</center></small>
+<center><small><i>This site is still being built, so please pay no mind to the pages that don't have anything on them.</i></center></small>
 
 <div class="home">
 <!--
