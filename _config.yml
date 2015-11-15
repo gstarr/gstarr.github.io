@@ -8,8 +8,8 @@ url:         "http://gstarr.me/projects"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_analytics:
-google_verification:
+google_analytics: UA-57711230-4
+google_verification: 
 
 # Optional features
 animated:             false
