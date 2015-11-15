@@ -1,5 +1,5 @@
 # Site settings
-title:       Graham Starr <small>Projects and Portfolio</small>
+title:       <font face="Lust">Graham Starr</font> <small><font face="Karmina Sans"><i>Projects and Portfolio</i></font></small>
 email:       hello@gstarr.me
 author:      Graham Starr
 description: "Graham Starr is a writer, designer, journalist, and humorist based in New York."
@@ -8,8 +8,8 @@ url:         "http://gstarr.me/projects"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_analytics:
-google_verification:
+google_analytics: UA-57711230-4
+google_verification: 
 
 # Optional features
 animated:             false
