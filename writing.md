@@ -4,7 +4,7 @@ title: Writing
 permalink: /writing/
 ---
 
-*These are **selected works**. If you are a completionist and would like to binge read everything I've ever done, please check out my [contently page](http://grahamstarr.contently.com/)*
+*These are <b>selected works</b>. If you are a completionist and would like to binge read everything I've ever done, please check out my [contently page](http://grahamstarr.contently.com/)*
 
 ##Journalism
 
