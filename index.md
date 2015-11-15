@@ -3,10 +3,10 @@ layout: default
 title: 
 ---
 
-<p>
-<img src="http://gstarr.me/projects/images/me.jpg" alt="hello this is a photo of me!" style="float:left;width:250px;" hspace="10"></p>   
-
 **Graham Starr** is a New York-based freelance writer, designer, and journalist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just physical objects or products. He usually only speaks in the third person for one paragraph.
+
+<p>
+<img src="http://gstarr.me/projects/images/me.jpg" alt="hello this is a photo of me!" style="float:left;width:250px;" hspace="10"></p> 
 
 This past summer I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Media Intern at the award-winning Christian Science Monitor in Boston. There, I served as a [staff writer](http://www.csmonitor.com/About/People/Graham-Starr) covering technology, security, privacy, and culture for the Innovations desk. I was also a digital designer for the Monitor, and the mobile and tablet lead on the website's feature redesign.
 
