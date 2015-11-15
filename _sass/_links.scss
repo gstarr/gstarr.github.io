@@ -8,5 +8,8 @@ a:active {
   border: 0;
   color: $link-hover-color;
   text-decoration: none;
-  text-decoration: highlight;
+  mark {
+    background-color: yellow;
+    color: $link-hover-color;
+  }
 }
