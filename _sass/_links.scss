@@ -1,5 +1,6 @@
 a {
   color: $link-color;
+  background-color: 'yellow';
 }
 
 a:hover,
@@ -8,7 +9,4 @@ a:active {
   border: 0;
   color: $link-hover-color;
   text-decoration: none;
-  mark {
-    background-color: 'YELLOW';
-  }
 }
