@@ -4,7 +4,7 @@ title:
 ---
 
 <p>
-<img src="/images/me.jpg" alt="hello this is a photo of me!" style="float:left;width:50%;height:50%;">
+<img src="/images/me.jpg" alt="hello this is a photo of me!" style="float:left;width:50%;height:50%;">  
 
 **Graham Starr** is a New York-based freelance writer, designer, and journalist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just physical objects or products. He usually only speaks in the third person for one paragraph.
 
