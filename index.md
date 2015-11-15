@@ -5,7 +5,7 @@ title:
 <p>
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="float:left;width:33%;margin-right:15px"></p> 
 
-**Graham Starr** is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just tangible objects as we prototypically assume it does. Graham is really into linguistics. He usually only speaks in the third person for one paragraph.  
+**Graham Starr** is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just tangible objects as we prototypically assume it does. Graham is really into lexicography. He usually only speaks in the third person for one paragraph.  
 
 This summer I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Media Intern at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston. There, I served as both a staff writer, covering technology and culture for the Innovations desk, and a digital designer, leading the website feature redesign's mobile team. After my internship ended, I was kept on as a freelance designer. In college, I was Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/) (this would be weird if I didn't go to Tufts, but completely normal because I did).  
 
