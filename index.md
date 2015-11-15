@@ -11,7 +11,7 @@ This past summer I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital
 
 My focus is technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways. An example of this can be seen in ["Phantom in Phoenix"](http://djnf.atavist.com/), an immersive multimedia project about *The Phantom of the Opera*'s U.S. Tour, for which I was the story designer and web editor.  
 
-I spend most of my time figuring out how to bridge comedy, technology, design, and journalism, and you can see some of those efforts on this site. If I have any free time, you can find me reading, hiking, rock climbing, going to shows, [making lists](http://www.gstarr.me/project), or teaching myself a new skill.  
+I spend most of my time figuring out how to bridge comedy, technology, design, and journalism, and you can see some of those efforts on this site. If I have any free time, you can find me memorizing public transportation lines, [making lists](http://www.gstarr.me/projects), [impulse buying silly domain names](http://beyonce.horse/), exploring the great outdoors and/or [deep web](http://portfolio.gstarr.me/), or teaching myself a new skill.  
 
 If you'd like to talk, see more of my work, or hire me to do something cool for you, please feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">reach out</a> at any time.  
 
