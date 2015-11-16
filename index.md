@@ -6,11 +6,9 @@ title:
 <p>
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="float:left;width:33%;margin-right:15px"></p> 
 
-**Graham Starr** is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just tangible objects as we prototypically assume it does. Graham is really into lexicography. He usually only speaks in the third person for one paragraph.  
+**Graham Starr** is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just the prototypical objects we assume it does. Graham is really into lexicography. He usually only speaks in the third person for one paragraph.  
 
-This summer I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Intern at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston. There, I served as a staff writer  covering technology and culture for the Innovations desk. I also served as a digital designer for the Monitor, leading the website feature redesign's mobile team. After my internship ended, I was kept on as a freelance designer.   
-
-In college, I was Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/). If I didn't go to Tufts, that sentence would be very weird, but is completely normal because I did.  
+This summer I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Intern at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston. There, I served as a staff writer  covering technology and culture for the Innovations desk. I also led the mobile team on the Monitor's website redesign. After my internship ended, I was kept on as a freelance designer. In college, I was Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/). If I didn't go to Tufts, this would be weird, but is completely normal because I did.  
 
 My focus is technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways. An example of this can be seen in ["Phantom in Phoenix"](http://djnf.atavist.com/), an immersive multimedia project about *The Phantom of the Opera*'s U.S. Tour, for which I was the story designer and web editor.  
 
