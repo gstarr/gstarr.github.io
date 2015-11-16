@@ -3,8 +3,6 @@ layout: default
 title: 
 ---
 
-<div id="hello"></div>   
-
 ## Hello!
 
 <p>
