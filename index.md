@@ -3,7 +3,7 @@ layout: default
 title: 
 ---
 
-<div id=""><h2 style>Hello!</h2></div>   
+<div id="hello"><h2 style>Hello!</h2></div>   
 
 <p>
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="float:left;width:33%;margin-right:15px;margin-top:5px"></p>   
