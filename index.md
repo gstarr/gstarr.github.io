@@ -3,8 +3,8 @@ layout: default
 title: 
 ---
 
+<div id="start">/div>  
 ## Hello!  
-
 <p>
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="float:left;width:33%;margin-right:15px;margin-top:5px"></p>   
 
