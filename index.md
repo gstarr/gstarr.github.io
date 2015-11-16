@@ -3,10 +3,11 @@ layout: default
 title: 
 ---
 
-<p><center><h2>Hello!</center></h2></p>   
+## Hello!
 
 <p>
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="float:left;width:33%;margin-right:15px"></p>   
+
 
 **Graham Starr** is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just the prototypical objects we assume it does. Graham is really into lexicography. He usually only speaks in the third person for one paragraph.  
 
