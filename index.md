@@ -3,8 +3,7 @@ layout: default
 title: 
 ---
 
-<div id="start"><br>
-</div>   
+<div id="start"></div>   
 
 ## Hello!  
 
