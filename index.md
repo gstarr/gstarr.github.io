@@ -2,7 +2,8 @@
 layout: default
 title: 
 ---
-<center> ## Hello! </center>
+<center><h2>Hello!</center></h2>
+
 <p>
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="float:left;width:33%;margin-right:15px"></p> 
 
