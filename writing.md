@@ -21,6 +21,3 @@ permalink: /writing/
 
 ### Humor  
 *coming soon!*  
-
-### Non-Fiction  
-*coming soon!*
