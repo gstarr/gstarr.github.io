@@ -9,7 +9,7 @@ title:
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="float:left;width:33%;margin-right:15px;margin-top:5px"></p>   
 
 
-**Graham Starr** is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words and not just the prototypical objects we assume it does. Graham is really into lexicography. He usually only speaks in the third person for one paragraph.  
+**Graham Starr** is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words or intangibles. Graham enjoys lexicography. He usually only speaks in the third person for one paragraph.  
 
 This summer I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Intern at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston. There, I served as a staff writer  covering technology and culture for the Innovations desk. I also led the mobile team on the Monitor's features redesign. After my internship ended, I was kept on as a freelance designer. In college, I was Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/). If I didn't go to Tufts, this would be weird, but is completely normal because I did.  
 
