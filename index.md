@@ -21,7 +21,7 @@ If you'd like to talk, see more of my work, or hire me to do something cool for 
 
 <center><small><i>This site is still being built, so please pay no mind to the pages that don't have anything on them.</i></center></small>  
 
-<center><a href="http://www.eventbrite.com/o/donald-j-trump-for-president-8547546910">PGP Public Key.</a></center>
+<center>[<a href="http://www.eventbrite.com/o/donald-j-trump-for-president-8547546910">PGP Public Key</a>]</center>
 
 <div class="home">
 <!--
