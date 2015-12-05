@@ -19,7 +19,7 @@ This ended up "going viral" within the political comedy community, garnering sev
 
   
 ### [Tufts Free Compliments Positive Psychology Group](https://www.facebook.com/tuftsfreecompliments)  
-Positive psychology group with press from USA Today as a "[Quirky College Club](http://college.usatoday.com/2012/11/19/6-quirky-college-clubs/)." Unlike the other project listed here, I did not start Tufts Free Compliments, but instead served as [publicity director](http://tuftsdaily.com/news/2012/11/30/tufts-free-compliments-helps-promote-positive-psychology-on-facebook/), expanding the group and building [large-scale, creative projects](http://i.imgur.com/TrAS0BO.jpg).  
+Positive psychology group with press from USA Today as a "[Quirky College Club](http://college.usatoday.com/2012/11/19/6-quirky-college-clubs/)." Unlike the other projects listed here, I did not start Tufts Free Compliments, but instead served as [publicity director](http://tuftsdaily.com/news/2012/11/30/tufts-free-compliments-helps-promote-positive-psychology-on-facebook/), expanding the group and building [large-scale, creative projects](http://i.imgur.com/TrAS0BO.jpg).  
 
   
 ### [Spigot Magazine](http://www.spigotmag.com/)  
