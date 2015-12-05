@@ -23,7 +23,7 @@ National anthology showcasing the humor and satirical work of 27 college campuse
   
    
 ### [Tufts Free Compliments Positive Psychology Group](https://www.facebook.com/tuftsfreecompliments)  
-Positive psychology group called a "[Quirky College Club](http://college.usatoday.com/2012/11/19/6-quirky-college-clubs/)" by *USA Today*. Unlike the other projects listed here, I did not start Tufts Free Compliments, but instead served as [its publicity director](http://tuftsdaily.com/news/2012/11/30/tufts-free-compliments-helps-promote-positive-psychology-on-facebook/), directing media outreach, expanding the group, and building [large-scale, creative projects](http://i.imgur.com/TrAS0BO.jpg).  
+Positive psychology group called a "[Quirky College Club](http://college.usatoday.com/2012/11/19/6-quirky-college-clubs/)" by *USA Today*. Unlike the other projects listed here, I did not start Tufts Free Compliments, but instead served as its [publicity director](http://tuftsdaily.com/news/2012/11/30/tufts-free-compliments-helps-promote-positive-psychology-on-facebook/), directing media outreach, expanding the group, and building [large-scale, creative projects](http://i.imgur.com/TrAS0BO.jpg).  
 
   
 ### [Internet Adventure project](http://portfolio.gstarr.me/)   
