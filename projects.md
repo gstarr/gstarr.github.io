@@ -17,7 +17,7 @@ A storify curating the tweets of Wisconsin Governor and former 2016 Presidential
 This ended up "going viral" within the political comedy community, garnering several thousand views and shares on Storify and Twitter.  
 
 ### [Tufts Free Compliments Positive Psychology Group](https://www.facebook.com/tuftsfreecompliments)  
-Positive psychology group with press from USA Today as a "[Quirky College Club](http://college.usatoday.com/2012/11/19/6-quirky-college-clubs/)." I served as [publicity director](http://tuftsdaily.com/news/2012/11/30/tufts-free-compliments-helps-promote-positive-psychology-on-facebook/), expanding the group and building [large-scale, creative guerilla marketing projects](http://i.imgur.com/TrAS0BO.jpg).  
+Positive psychology group with press from USA Today as a "[Quirky College Club](http://college.usatoday.com/2012/11/19/6-quirky-college-clubs/)." I served as [publicity director](http://tuftsdaily.com/news/2012/11/30/tufts-free-compliments-helps-promote-positive-psychology-on-facebook/), expanding the group and building [large-scale, creative projects](http://i.imgur.com/TrAS0BO.jpg).  
 
 ### [Internet Adventure project](http://portfolio.gstarr.me/)   
 Still under construction. Expansive satirical project using permalinks and dated social media markers to create a facade of time travel within a massive Internet adventure.  
