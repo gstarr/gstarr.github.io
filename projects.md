@@ -11,14 +11,21 @@ A positive psychology project during finals week of my sophomore year at Tufts. 
 
 Tufts Mugs was also featured on [Narratively](http://narrative.ly/stories/wipe-that-final-off-your-face/) and the Tufts Admissions magazine. I've been told since that it was the deciding factor for why some students chose to attend Tufts.  
 
+  
 ### [Scott Walker Really Likes Hot Ham](https://storify.com/GrahamStarr/scott-walker-really-likes-hot-ham)  
 A storify curating the tweets of Wisconsin Governor and former 2016 Presidential hopeful Scott Walker. Spoiler: he tweets a lot about ham.
 
 This ended up "going viral" within the political comedy community, garnering several thousand views and shares on Storify and Twitter.  
 
+  
 ### [Tufts Free Compliments Positive Psychology Group](https://www.facebook.com/tuftsfreecompliments)  
-Positive psychology group with press from USA Today as a "[Quirky College Club](http://college.usatoday.com/2012/11/19/6-quirky-college-clubs/)." I served as [publicity director](http://tuftsdaily.com/news/2012/11/30/tufts-free-compliments-helps-promote-positive-psychology-on-facebook/), expanding the group and building [large-scale, creative projects](http://i.imgur.com/TrAS0BO.jpg).  
+Positive psychology group with press from USA Today as a "[Quirky College Club](http://college.usatoday.com/2012/11/19/6-quirky-college-clubs/)." Unlike the other project listed here, I did not start Tufts Free Compliments, but instead served as [publicity director](http://tuftsdaily.com/news/2012/11/30/tufts-free-compliments-helps-promote-positive-psychology-on-facebook/), expanding the group and building [large-scale, creative projects](http://i.imgur.com/TrAS0BO.jpg).  
 
+  
+### [Spigot Magazine](http://www.spigotmag.com/)  
+National anthology showcasing the humor and satirical work of 27 college campuses across the country.  
+  
+   
 ### [Internet Adventure project](http://portfolio.gstarr.me/)   
 Still under construction. Expansive satirical project using permalinks and dated social media markers to create a facade of time travel within a massive Internet adventure.  
 
