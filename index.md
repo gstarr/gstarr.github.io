@@ -5,8 +5,13 @@ title:
 
 ## Hello!
 
-<p><marquee direction="right" scrollamount="50%">
-<img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="float:left;width:33%;margin-right:15px;margin-top:5px"></p></marquee>     
+
+<marquee direction="down" width=100% height=100% behavior="alternate" style="border:solid">
+  <marquee behavior="alternate">
+<img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="float:left;width:33%;margin-right:15px;margin-top:5px"> 
+  </marquee>
+</marquee>   
+   
 
 
 **Graham Starr** is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words or intangibles. Graham enjoys lexicography. He usually only speaks in the third person for one paragraph.  
