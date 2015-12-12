@@ -4,6 +4,9 @@ title: <center>Design</center>
 permalink: /design/
 ---
 
+<center><i>Content on this page is incomplete — sorry about that! I probably have designed/illustrated something similar to the thing you want to see, and you can <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">reach out</a> at any time if you want to see specific work and/or hire me.</i></center>  
+  
+
 ## Story Design   
 
 "[Phantom in Phoenix](http://djnf.atavist.com/)" *Dow Jones News Fund*  
