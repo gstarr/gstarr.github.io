@@ -18,7 +18,9 @@ For the remainder of 2015, I'm working as a freelance media consultant for the U
 
 Before that, I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Intern at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston, covering technology and culture for the Innovations desk and leading the mobile team on the Monitor's features redesign. After my internship ended, I was kept on as a freelance designer.  
 
-In college, I was Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I didn't go to Tufts but makes complete sense because I did. More of my resume can be found on my [resume](http://gstarr.me/projects/resume).  
+In college, I was Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I didn't go to Tufts but makes complete sense because I did.   
+
+More of my resume can be found on my [resume](http://gstarr.me/projects/resume).  
 
 My focus is technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways. An example of this can be seen in ["Phantom in Phoenix"](http://djnf.atavist.com/), an immersive multimedia project about *The Phantom of the Opera*'s U.S. Tour, for which I was the story designer and web editor.  
 
