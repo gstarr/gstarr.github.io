@@ -14,15 +14,15 @@ title:
 
 **Graham Starr** is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words or intangibles. Graham enjoys lexicography. He usually only speaks in the third person for one paragraph.  
 
-For the remainder of 2015, I'm working as a media consultant for the UN Refugee Agency, using creative media to engage the U.S. population on refugee issues as part of [UNHCR's](http://www.unhcr.org/)/[USA for UNHCR's](http://www.unrefugees.org/) "Digital HIVE" joint program. 
+For the remainder of 2015, I'm working as a freelance media consultant for the UN Refugee Agency, using creative media to engage the U.S. population on refugee issues as part of [UNHCR's](http://www.unhcr.org/)/[USA for UNHCR's](http://www.unrefugees.org/) "Digital HIVE" joint innovation project. 
 
-Before that, I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Intern at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston. There, I served as a staff writer  covering technology and culture for the Innovations desk. I also led the mobile team on the Monitor's features redesign. After my internship ended, I was kept on as a freelance designer.  
+Before that, I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Intern at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston, covering technology and culture for the Innovations desk and leading the mobile team on the Monitor's features redesign. After my internship ended, I was kept on as a freelance designer.  
 
-In college, I was Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a strange claim if I didn't go to Tufts but is completely normal because I did. More of my resume can be found by going to my [resume](http://gstarr.me/projects/resume).  
+In college, I was Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I didn't go to Tufts but makes complete sense because I did. More of my resume can be found on my [resume](http://gstarr.me/projects/resume).  
 
 My focus is technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways. An example of this can be seen in ["Phantom in Phoenix"](http://djnf.atavist.com/), an immersive multimedia project about *The Phantom of the Opera*'s U.S. Tour, for which I was the story designer and web editor.  
 
-I spend most of my time figuring out how to bridge comedy, technology, design, and journalism, and you can see some of those efforts on this site. If I have any free time, you can find me memorizing public transportation lines, [making lists](http://www.gstarr.me/projects), [impulse buying silly domain names](http://beyonce.horse/), exploring the great outdoors and/or [deep web](http://www.cachemonet.com/), or teaching myself a new skill.  
+I spend most of my time figuring out how to bridge comedy, technology, design, and journalism, and you can see some of [those efforts](http://gstarr.me/projects/misc) on this site. If I have any free time, you can find me memorizing public transportation lines, exploring the great outdoors and/or [deep web](http://www.cachemonet.com/), [making lists](http://www.gstarr.me/projects), [impulse buying silly domain names](http://beyonce.horse/), rock climbing, or teaching myself a new skill.  
 
 If you'd like to talk, see more of my work, or hire me to do something cool for you, please feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">reach out</a> at any time.  
 
