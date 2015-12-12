@@ -7,7 +7,7 @@ title:
 
   <marquee direction="down" loop="1">
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="float:left;width:33%;margin-right:15px;margin-top:5px"> 
-  </marquee>
+
 
    
 
