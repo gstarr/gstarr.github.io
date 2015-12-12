@@ -25,5 +25,5 @@ permalink: /misc/
 **[Internet Adventure project](http://portfolio.gstarr.me/)**   *In Progress*  
   Still under construction. Expansive satirical project using permalinks and dated social media markers to create a facade of time travel within a massive Internet adventure.  
 
-**[Craigslist.fish](http://craigslist.fish)**  *In Progress*
+**[Craigslist.fish](http://craigslist.fish)**  *In Progress*   
   The Only Craigslist Page for Fish™
