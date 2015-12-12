@@ -23,7 +23,7 @@ permalink: /misc/
   Positive psychology group called a "[Quirky College Club](http://college.usatoday.com/2012/11/19/6-quirky-college-clubs/)" by *USA Today*. Unlike the other projects listed here, I did not start Tufts Free Compliments, but instead served as its [publicity director](http://tuftsdaily.com/news/2012/11/30/tufts-free-compliments-helps-promote-positive-psychology-on-facebook/), directing media outreach, expanding the group, and building [large-scale, creative projects](http://i.imgur.com/TrAS0BO.jpg).  
   
 **[Internet Adventure project](http://portfolio.gstarr.me/)**   *In Progress*  
-  Still under construction. Expansive satirical project using permalinks and dated social media markers to create a facade of time travel within a massive Internet adventure.  
+  Expansive satirical project using permalinks and dated social media markers to create a facade of time travel within a massive Internet adventure.  
 
 **[Craigslist.fish](http://craigslist.fish)**  *In Progress*   
   The Only Craigslist Page for Fish™
