@@ -12,7 +12,7 @@ title:
    
 
 
-**Graham Starr** is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words or intangibles. Graham enjoys lexicography. He usually only speaks in the third person for one paragraph.  
+**Graham Starr** is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. He made this website. He also made this text. Sometimes "things" means words or intangibles. Graham usually only speaks in the third person for one paragraph.  
 
 For the remainder of 2015, I'm working as a freelance media consultant for the UN Refugee Agency, using creative media to engage the U.S. population on refugee issues as part of [UNHCR's](http://www.unhcr.org/)/[USA for UNHCR's](http://www.unrefugees.org/) "Digital HIVE" joint innovation project. 
 
