@@ -5,9 +5,14 @@ title:
 
 ## Hello!
 
-<marquee direction="right" behavior="scroll" scrolldelay="5" scrollamount="100" loop="1">
+<script>
+function start() {
+setTimeout("document.getElementById('asd').style.display = 'inline';", 2000);
+};
+</script>
+<marquee onload="start();" direction="right" behavior="scroll" scrolldelay="5" scrollamount="50" loop="1">
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="float:left;width:33%;margin-right:15px;margin-top:5px"> 
-</marquee>  
+</marquee>   
 
    
 
