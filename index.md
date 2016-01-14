@@ -12,7 +12,7 @@ title:
    
 
 
-**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. Right now, he's working with the UN Refugee Agency as a media consultant.  
+**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm working with the UN Refugee Agency as a media consultant.  
 
 My focus is on technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways.  
 
