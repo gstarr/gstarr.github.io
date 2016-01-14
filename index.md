@@ -12,11 +12,11 @@ title:
    
 
 
-**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. My focus is on technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways.
+**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers. Right now, he's working with the UN Refugee Agency as a media consultant.  
 
-For the remainder of 2015, I'm working as a freelance media consultant with the UN Refugee Agency, using creative media to engage the U.S. population on refugee issues as part of [UNHCR's](http://www.unhcr.org/)/[USA for UNHCR's](http://www.unrefugees.org/) "The HIVE" digital innovation project. 
+My focus is on technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways.  
 
-Before that, I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Media Intern at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston, covering technology and culture for the Innovations desk and leading the mobile team on the Monitor's feature redesign. After my internship ended, I was kept on as a freelance designer.  In May, I worked with the 13 other DJNF digital interns to create ["Phantom in Phoenix"](http://djnf.atavist.com/), an immersive multimedia project about *The Phantom of the Opera*'s U.S. Tour in Phoenix, Ariz., for which I was the project's story designer and web editor.  
+Before, I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Media Intern at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston, covering technology and culture for the Innovations desk and leading the mobile team on the Monitor's [feature redesign](http://gstarr.me/projects/design). After my internship ended, I was kept on as a freelance designer.  In May, I worked with the 13 other DJNF digital interns to create ["Phantom in Phoenix"](http://djnf.atavist.com/), an immersive multimedia project about *The Phantom of the Opera*'s U.S. Tour in Phoenix, Ariz., for which I was the project's story designer and web editor.  
 
 In college, I was the Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I didn't go to Tufts but makes complete sense because I did.   
 
