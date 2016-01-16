@@ -17,7 +17,7 @@ title:
 
 <marquee direction="up" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:0;height:100%;width:100%;">
 <marquee direction="right" behavior="alternate">
-<h1 style="text-align:center;word-break:normal;white-space:normal;">Did you know that the marquee tag still works in HTML5?</h1> 
+<h1 style="text-align:center;word-break:keep-all;white-space:nowrap;">Did you know that the marquee tag<b>still works in HTML5?</h1> 
 </marquee></marquee>   
 
 **Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm working with the UN Refugee Agency as a media consultant.  
