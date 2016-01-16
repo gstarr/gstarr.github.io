@@ -20,7 +20,7 @@ title:
 <h1 style="text-align:center;word-break:keep-all;">Did you know that the marquee tag<br>still works in HTML5?</h1> 
 </marquee></marquee>   
 
-<marquee direction="right" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:1;height:100%;width:100%;">
+<marquee direction="right" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:1;height:100%;width:100%;">
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
 </marquee>   
 
