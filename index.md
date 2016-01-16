@@ -5,9 +5,10 @@ title:
 
 ## Hello!
 
-<marquee direction="right" loop="1" style="float:left;position:absolute;top:0;bottom:0;left:0;right:0;height:100%;margin-right:15px;margin-top:5px;">
+<marquee direction="right" behavior="alternate" loop="1" style="float:left;position:absolute;top:0;bottom:0;left:0;right:0;height:100%;margin-right:15px;margin-top:5px;">
+<marquee behavior="alternate">
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua" style="width:33%"> 
-</marquee>   
+</marquee></marquee>   
 
    
 
