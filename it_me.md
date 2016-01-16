@@ -1,6 +1,7 @@
 ---
 layout: default
 title: it me!
+permalink: /it_me/
 ---
 
 
