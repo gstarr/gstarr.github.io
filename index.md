@@ -5,7 +5,7 @@ title:
 
 ## Hello!
 
-<marquee direction="right" loop="1" style="float:right;width:40%;margin-bottom:20px;margin-top:5px">
+<marquee direction="right" loop="1" behavior="alternate" style="float:right;width:40%;margin-bottom:20px;margin-top:5px">
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="Photo credit: Kristie Chua"> 
 </marquee>   
 
