@@ -20,6 +20,11 @@ title:
 <h1 style="text-align:center;word-break:keep-all;">Did you know that the marquee tag<br>still works in HTML5?</h1> 
 </marquee></marquee>   
 
+<marquee direction="up" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:0;height:100%;width:100%;">
+<marquee behavior="alternate">
+<img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net"> 
+</marquee></marquee>   
+
 **Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm working with the UN Refugee Agency as a media consultant.  
 
 My focus is on technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways.  
