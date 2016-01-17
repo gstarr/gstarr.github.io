@@ -15,6 +15,11 @@ title:
 <img src="http://www.clipartbest.com/cliparts/dT6/o5b/dT6o5b7Ec.png" alt="DVD" title=""> 
 </marquee></marquee>   
 
+<marquee direction="down" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:0;height:100%;width:100%;">
+<marquee direction="right" behavior="alternate">
+<img src="http://i3.kym-cdn.com/photos/images/original/000/815/427/d71.gif" alt="HaHaHa" title="lol"> 
+</marquee></marquee>  
+
 <marquee direction="up" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:0;height:100%;width:100%;">
 <marquee direction="right" behavior="alternate">
 <h1 style="text-align:center;word-break:keep-all;">Did you know that the marquee tag<br>still works in HTML5?</h1> 
