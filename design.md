@@ -25,7 +25,7 @@ When "The Phantom of the Opera" travels around the world, what travels with it? 
 
 <h2>Illustration and Art Direction</h2>
 
-<h3> The Zamboni</h3>  
+<h3>The Zamboni</h3>  
 <p>
 <a href="https://40.media.tumblr.com/455dc1850fa71ad22829d8375d16be7d/tumblr_nftqnse8DV1tgpm0zo2_r2_1280.png">
 <img src="https://40.media.tumblr.com/455dc1850fa71ad22829d8375d16be7d/tumblr_nftqnse8DV1tgpm0zo2_r2_1280.png" alt="The Giving BMW" title="The Zamboni Vol. XXV, No. 1" style="float:left;width:600px;margin-right:15px;">
