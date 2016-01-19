@@ -14,11 +14,11 @@ When "The Phantom of the Opera" travels around the world, what travels with it? 
 
 ## Editorial and Mobile  
 
-<p><b>Website Feature Redesign — Mobile Lead</b> <i>The Christian Science Monitor</i></p>
-<p><a href="http://gstarr.me/projects/images/design/csm_menu.png">
+<H3><b>Website Feature Redesign — Mobile Lead</b></H3> <i>The Christian Science Monitor</i>
+<a href="http://gstarr.me/projects/images/design/csm_menu.png">
 <img src="http://gstarr.me/projects/images/design/csm_menu.png" alt="CSM Mobile Feature Redesign" title="CSM Mobile Feature Redesign" style="float:left;100%;margin-right:15px;">
-</a></p>  
-Mobile design lead on the Christian Science Monitor’s feature redesign team. Tasked with incorporating several new features from desktop site — including infinite scroll, recommended articles, and “save for later” features — while maintaining aesthetic appeal and brand identity. Goal was to prioritize keeping readers on the site, and highlighting the stories recommended by Editors. 
+</a>  
+Tasked with incorporating several new features from desktop site — including infinite scroll, recommended articles, and “save for later” features — while maintaining aesthetic appeal and brand identity. Goal was to prioritize keeping readers on the site, and highlighting the stories recommended by Editors. 
 
 Redesign postponed with organization restructuring.
 
