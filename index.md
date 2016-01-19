@@ -6,7 +6,7 @@ title:
 ## Hello!  
 
 <!-- <marquee direction="down" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;"> -->
-<marquee direction="right" loop="1" style="position:absolute;z-index:-1;">
+<marquee direction="right" loop="1" onmouseover="this.stop();" onmouseout="this.start();" style="position:absolute;z-index:-1;">
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="width:350px;align:left;margin-top:5px;"> 
 </marquee>
 <!--
