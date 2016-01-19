@@ -14,7 +14,7 @@ When "The Phantom of the Opera" travels around the world, what travels with it? 
 
 ## Editorial and Mobile  
 
-<p style="font-family:Proxima Nove;font-weight:bold;">Website Feature Redesign — Mobile Lead <i style="font-family:Chaparral Pro;">The Christian Science Monitor</i></p>
+<p style="font-family:Proxima Nove;font-weight:700;">Website Feature Redesign — Mobile Lead <i style="font-family:Chaparral Pro;font-weight:300;">The Christian Science Monitor</i></p>
 <a href="http://gstarr.me/projects/images/design/csm_menu.png">
 <img src="http://gstarr.me/projects/images/design/csm_menu.png" alt="CSM Mobile Feature Redesign" title="CSM Mobile Feature Redesign" style="float:left;100%;margin-right:15px;">
 </a>  
