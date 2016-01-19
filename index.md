@@ -6,8 +6,8 @@ title:
 ## Hello!  
 
 <!-- <marquee direction="down" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;"> -->
-<marquee direction="right" loop="1" style="width:100%;position:absolute;z-index:-1;">
-<img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="width:300px;margin-top:5px;"> 
+<marquee direction="right" loop="1" style="position:absolute;z-index:-1;">
+<img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="width:500px;align:left;margin-top:5px;"> 
 </marquee>
 <!--
 <marquee direction="up" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
