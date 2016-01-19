@@ -6,7 +6,7 @@ title:
 ## Hello!  
 
 <!-- <marquee direction="down" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;"> -->
-<marquee direction="right" loop="1" style="position:absolute;z-index:-1;">
+<marquee direction="right" loop="1" style="width:100%;position:absolute;z-index:-1;">
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="width:300px;margin-top:5px;"> 
 </marquee>
 <!--
@@ -29,7 +29,7 @@ title:
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
 </marquee> 
 -->  
-**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential paragraph.  
+**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence.  
 
 My focus is on technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways.  
 
