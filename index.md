@@ -37,13 +37,13 @@ Right now, I'm working with the UN Refugee Agency as a freelance media consultan
 
 Before that, I was a [Dow Jones News Fund Digital Intern](http://www.newsfund.org/) at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston, covering technology and culture for the Innovations desk and leading the mobile team on the Monitor's [feature redesign](http://gstarr.me/projects/design). After my internship ended, I was kept on as a freelance designer.  In May, I worked with the 13 other DJNF digital interns to create ["Phantom in Phoenix"](http://djnf.atavist.com/), an immersive multimedia project about *The Phantom of the Opera*'s U.S. Tour in Phoenix, Ariz., for which I was the project's story designer and web editor, prioritizing a mobile-first experience.   
 
-In college, I was the Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I didn't go to Tufts but makes complete sense because I did. I revived the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental new media projects in addition to printing its [monthly magazine](http://dropr.com/gstarr/57501/humor_magazine_redesign/).    
+In college, I was the Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I went to a college that wasn't Tufts. I revived the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental new media projects in addition to printing its [monthly magazine](http://dropr.com/gstarr/57501/humor_magazine_redesign/).    
 
 More of my résumé can be found by looking at [my résumé](http://gstarr.me/projects/resume).  
 
 I spend most of my time figuring out how to bridge comedy, technology, design, and journalism, and you can see some of [those efforts](http://gstarr.me/projects/misc) on this site. If I have any free time, you can find me memorizing public transportation lines, rock climbing, exploring the great outdoors and/or "[deep web](http://www.cachemonet.com/)", [making lists](http://www.gstarr.me/projects), [managing very silly domain names](http://beyonce.horse/), or teaching myself a new skill.   
 
-If you'd like to talk, see more of my work, or hire me to do something cool for you, feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email me</a> at any time.  
+If you'd like to talk or hire me to do something cool for you, please feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email me</a> at any time.  
 
 <center><small><i>This site is still being built, so please pay no mind to the pages that don't have anything on them.</i></center></small>  
 
