@@ -20,7 +20,8 @@ When "The Phantom of the Opera" travels around the world, what travels with it? 
 </a></p>  
 <p><small>Tasked with incorporating several new features from desktop site — including infinite scroll, recommended articles, and “save for later” features — while maintaining aesthetic appeal and brand identity. Goal was to prioritize keeping readers on the site, and highlighting the stories recommended by Editors.</p></small> 
 <p><small>Major implementations: menu shows recommended articles, as well as the infinite scroll up-next, and only shows the menu below the main screeen so that readers who want to see it can. Rwo-thirds through an article, readers see a slideable pop-up of what’s next on the reading list, and have the ability to remove an item from thee reading list. Removing an item automatically populates the list with another recommended story, and creates a passive commitment to reading using predictive and assumptive design.</p></small>  
-<p><small>Redesign initially planned for end-of-year 2015 but postponed due to organization restructuring.</p></small>       
+<p><small>Redesign initially planned for end-of-year 2015 but postponed due to organization restructuring.       
+
 
 ## Illustration and Art Direction
 
