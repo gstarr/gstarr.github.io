@@ -5,11 +5,11 @@ title:
 
 ## Hello!  
 
-/* <marquee direction="down" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;"> */
+<!-- <marquee direction="down" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;"> -->
 <marquee direction="right" loop="1">
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="width:33%;align:left;margin-top:5px;margin-right:15px;"> 
 </marquee>
-/*
+<!--
 <marquee direction="up" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <marquee behavior="alternate">
 <img src="http://www.clipartbest.com/cliparts/dT6/o5b/dT6o5b7Ec.png" alt="DVD" title=""> 
@@ -27,8 +27,8 @@ title:
 
 <marquee direction="right" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
-</marquee> */
-  
+</marquee> 
+-->  
 **Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential paragraph.  
 
 My focus is on technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways.  
