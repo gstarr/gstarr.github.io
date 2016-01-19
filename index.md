@@ -29,9 +29,11 @@ title:
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
 </marquee>   
 
-**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm working with the UN Refugee Agency as a media consultant.  
+**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence.  
 
 My focus is on technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways.  
+
+Right now, I'm working with the UN Refugee Agency as a freelance media consultant, using creative media to engage the U.S. population on refugee issues.  
 
 Before, I was a [Dow Jones News Fund](http://www.newsfund.org/) Digital Media Intern at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston, covering technology and culture for the Innovations desk and leading the mobile team on the Monitor's [feature redesign](http://gstarr.me/projects/design). After my internship ended, I was kept on as a freelance designer.  In May, I worked with the 13 other DJNF digital interns to create ["Phantom in Phoenix"](http://djnf.atavist.com/), an immersive multimedia project about *The Phantom of the Opera*'s U.S. Tour in Phoenix, Ariz., for which I was the project's story designer and web editor.  
 
