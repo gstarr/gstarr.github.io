@@ -18,28 +18,11 @@ When "The Phantom of the Opera" travels around the world, what travels with it? 
 <a href="http://gstarr.me/projects/images/design/csm_menu.png">
 <img src="http://gstarr.me/projects/images/design/csm_menu.png" alt="CSM Mobile Feature Redesign" title="CSM Mobile Feature Redesign" style="float:left;100%;margin-right:15px;">
 </a></p>  
-<p style="@media all and (min-width: 900px) {
-#example p:first-of-type  {
-  -webkit-column-count: 2;
-  -webkit-column-gap: 3%; /* Saf3, Chrome*/
-  -moz-column-count: 2;   
-  -moz-column-gap: 3%; /* FF3.5+ */
-  column-count: 2;        
-  column-gap: 3%; /* Opera 11+*/
-  }
-   #example p  {
-  -webkit-column-count: 3;
-  -webkit-column-gap: 1%; /* Saf3, Chrome*/
-  -moz-column-count: 3;   
-  -moz-column-gap: 1%; /* FF3.5+ */
-  column-count: 3;        
-  column-gap: 1%; /* Opera 11+*/
-  }
-};">Tasked with incorporating several new features from desktop site — including infinite scroll, recommended articles, and “save for later” features — while maintaining aesthetic appeal and brand identity. Goal was to prioritize keeping readers on the site, and highlighting the stories recommended by Editors. 
+<small>Tasked with incorporating several new features from desktop site — including infinite scroll, recommended articles, and “save for later” features — while maintaining aesthetic appeal and brand identity. Goal was to prioritize keeping readers on the site, and highlighting the stories recommended by Editors. 
 
 Major implementations: menu shows recommended articles, as well as the infinite scroll up-next, and only shows the menu below the main screeen so that readers who want to see it can. Rwo-thirds through an article, readers see a slideable pop-up of what’s next on the reading list, and have the ability to remove an item from thee reading list. Removing an item automatically populates the list with another recommended story, and creates a passive commitment to reading using predictive and assumptive design.  
 
-Redesign initially planned for end-of-year 2015 but postponed due to organization restructuring.</p>   
+Redesign initially planned for end-of-year 2015 but postponed due to organization restructuring.</small>     
 
 ## Illustration and Art Direction
 
