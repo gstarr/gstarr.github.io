@@ -7,7 +7,7 @@ title:
 
 <!-- <marquee direction="down" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;"> -->
 <marquee direction="right" loop="1" scollamount="5" style="position:absolute;z-index:-1;">
-<img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="width:25%;align:left;margin-top:5px;margin-right:15px;"> 
+<img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="width:100px;align:left;margin-top:5px;margin-right:15px;"> 
 </marquee>
 <!--
 <marquee direction="up" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
@@ -43,7 +43,7 @@ More of my résumé can be found by looking at [my résumé](http://gstarr.me/pr
 
 I spend most of my time figuring out how to bridge comedy, technology, design, and journalism, and you can see some of [those efforts](http://gstarr.me/projects/misc) on this site. If I have any free time, you can find me memorizing public transportation lines, rock climbing, exploring the great outdoors and/or "[deep web](http://www.cachemonet.com/)", [making lists](http://www.gstarr.me/projects), [managing very silly domain names](http://beyonce.horse/), or teaching myself a new skill.   
 
-If you'd like to talk, see more of my work, or hire me to do something cool for you, please don't hesitate to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email me</a>.  
+If you'd like to talk, see more of my work, or hire me to do something cool for you, feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email me</a> at any time.  
 
 <center><small><i>This site is still being built, so please pay no mind to the pages that don't have anything on them.</i></center></small>  
 
