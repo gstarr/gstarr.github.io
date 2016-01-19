@@ -16,9 +16,9 @@ When "The Phantom of the Opera" travels around the world, what travels with it? 
 
 ### The Christian Science Monitor
 
-<p style="font-family:Proxima Nova;font-weight:700;">
+<p>
 <a href="http://gstarr.me/projects/images/design/csm_menu.png">
-<img src="http://gstarr.me/projects/images/design/csm_menu.png" alt="CSM Mobile Feature Redesign" title="CSM Mobile Feature Redesign" style="float:left;100%;margin-right:15px;"></a> Website Feature Redesign <i style="font-family:Chaparral Pro;font-weight:400;">Mobile Lead</i></p>   
+<img src="http://gstarr.me/projects/images/design/csm_menu.png" alt="CSM Mobile Feature Redesign" title="CSM Mobile Feature Redesign" style="float:left;100%;margin-right:15px;"></a><b>Website Feature Redesign</b> <i>Mobile Lead</i></p>   
 
 Tasked with incorporating several new features from desktop site — including infinite scroll, recommended articles, and “save for later” features — while maintaining aesthetic appeal and brand identity. Goal was to prioritize keeping readers on the site, and highlighting the stories recommended by Editors.   
 
