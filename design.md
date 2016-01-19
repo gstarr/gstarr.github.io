@@ -30,4 +30,4 @@ When "The Phantom of the Opera" travels around the world, what travels with it? 
 <a href="https://40.media.tumblr.com/455dc1850fa71ad22829d8375d16be7d/tumblr_nftqnse8DV1tgpm0zo2_r2_1280.png">
 <img src="https://40.media.tumblr.com/455dc1850fa71ad22829d8375d16be7d/tumblr_nftqnse8DV1tgpm0zo2_r2_1280.png" alt="The Giving BMW" title="The Zamboni Vol. XXV, No. 1" style="float:left;width:600px;margin-right:15px;">
 </a></p>  
-<p><b>The Giving BMW</b> written by Paul Templeton, appearing in <i>The Zamboni Vol. XXV, No. 1: "The Outdated Issue"</i>. Illustrated with Craig Drennan.
+<p><b>The Giving BMW</b> written by Paul Templeton, appearing in <i><a href="http://issuu.com/zamboni/docs/vol_xxvi__issue_1/21">The Zamboni Vol. XXV, No. 1: "The Outdated Issue"</a></i>. Illustrated with Craig Drennan.
