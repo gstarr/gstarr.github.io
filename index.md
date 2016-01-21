@@ -10,17 +10,17 @@ title:
 <img src="http://gstarr.me/projects/images/me.jpg" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="float:left;width:25%;margin-right:15px;margin-top:5px"> 
 </marquee>
 
-<marquee direction="up" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
+<marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <marquee loop="1" behavior="scroll">
-<img src="http://www.clipartbest.com/cliparts/dT6/o5b/dT6o5b7Ec.png" alt="DVD" title="" style="width:20%;margin-top:5px;"> 
+<img src="http://www.clipartbest.com/cliparts/dT6/o5b/dT6o5b7Ec.png" alt="DVD" title="hey, remember this?"> 
 </marquee></marquee>   
 
-<marquee direction="down" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
+<marquee direction="down" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <marquee direction="left" loop="1" behavior="scroll">
-<img src="http://i3.kym-cdn.com/photos/images/original/000/815/427/d71.gif" alt="HaHaHa" title="lol" style="width:33%;"> 
+<img src="http://i3.kym-cdn.com/photos/images/original/000/815/427/d71.gif" alt="HaHaHa" title="lol"> 
 </marquee></marquee>  
 
-<marquee direction="up" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
+<marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <marquee direction="right" loop="1" behavior="scroll">
 <h1 style="text-align:center;word-break:keep-all;">this is so dumb</h1> 
 </marquee></marquee>   
