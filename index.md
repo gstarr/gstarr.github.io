@@ -11,12 +11,12 @@ title:
 </marquee>
 
 <marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
-<marquee direction="right" loop="1" behavior="scroll" scrollamount="8">
+<marquee direction="right" loop="1" behavior="scroll" scrollamount="7">
 <img src="http://www.clipartbest.com/cliparts/dT6/o5b/dT6o5b7Ec.png" alt="DVD" title=""> 
 </marquee></marquee>   
 
 <marquee direction="down" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;width:100%;height:100%;">
-<marquee loop="1" behavior="scroll" scrollamount="8">
+<marquee loop="1" behavior="scroll" direction="left" scrollamount="7">
 <img src="http://i3.kym-cdn.com/photos/images/original/000/815/427/d71.gif" alt="HaHaHa" title="lol"> 
 </marquee></marquee>  
 
