@@ -33,7 +33,7 @@ title:
 
 My focus is on technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways.  
 
-Right now, I'm working with the UN Refugee Agency as a freelance media consultant, using creative media to engage the U.S. population on refugee issues.  
+Right now, I'm working with the [UN Refugee Agency](http://www.unrefugees.org/) as a freelance media consultant, using creative media to engage the U.S. population on refugee issues. I will be joining [The Atlantic](http://www.theatlantic.com) in February as part of the magazine's [special projects](http://theatlantic.com/special-report) team.  
 
 Before that, I was a [Dow Jones News Fund Digital Intern](http://www.newsfund.org/) at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston, covering technology and culture for the Innovations desk and leading the mobile team on the Monitor's [feature redesign](http://gstarr.me/projects/design). After my internship ended, I was kept on as a freelance designer.  In May, I worked with the 13 other DJNF digital interns to create ["Phantom in Phoenix"](http://djnf.atavist.com/), an immersive multimedia project about *The Phantom of the Opera*'s U.S. Tour in Phoenix, Ariz., for which I was the project's story designer and web editor, prioritizing a mobile-first experience.   
 
