@@ -29,21 +29,19 @@ title:
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
 </marquee>    
   
-**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence.  
+**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team.   
+
+I do a lot of comedy/tech/journalism corrsover things, and my team just won [Comedy Hack Day](http://commedyhackday.org) with [Equipay](http://www.comedyhackday.org/demosmade/2016/1/28/equipay), a bill-splitting app that splits the bill fairly. No really, *fairly*. I was also a part of [the Useless Press](http://www.uselesspress.org/)'s Dreamz Team at the [Stupid Shit No One Needs & Terrible Ideas Hackathon](http://www.stupidhackathon.com), where I helped make an Ad Blocker for the physical realm while on a Greyhound bus from New York to D.C.     
 
 My focus is on technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways.  
 
-Right now, I'm working with the [UN Refugee Agency](http://www.unrefugees.org/) as a freelance media consultant, using creative media to engage the U.S. population on refugee issues. I will be joining [The Atlantic](http://www.theatlantic.com) in February as a fellow with the magazine's [special projects](http://theatlantic.com/special-report) team.  
-
-Before that, I was a [Dow Jones News Fund Digital Intern](http://www.newsfund.org/) at the award-winning [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr) in Boston, covering technology and culture for the Innovations desk and leading the mobile team on the Monitor's [feature redesign](http://gstarr.me/projects/design). After my internship ended, I was kept on as a freelance designer.  In May, I worked with the 13 other DJNF digital interns to create ["Phantom in Phoenix"](http://djnf.atavist.com/), an immersive multimedia project about *The Phantom of the Opera*'s U.S. Tour in Phoenix, Ariz., for which I was the project's story designer and web editor, prioritizing a mobile-first experience.   
-
 In college, I was the Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I went to a college that wasn't Tufts. I revived the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental new media projects in addition to printing its [monthly magazine](http://dropr.com/gstarr/57501/humor_magazine_redesign/).    
 
-More of my résumé can be found by looking at [my résumé](http://gstarr.me/projects/resume).  
+My résumé can be found by looking at [my résumé](http://gstarr.me/projects/resume).  
 
 I spend most of my time figuring out how to bridge comedy, technology, design, and journalism, and you can see some of [those efforts](http://gstarr.me/projects/misc) on this site. If I have any free time, you can find me memorizing public transportation lines, rock climbing, exploring the great outdoors and/or "[deep web](http://www.cachemonet.com/)", [making lists](http://www.gstarr.me/projects), [managing very silly domain names](http://beyonce.horse/), or teaching myself a new skill.   
 
-If you'd like to talk or hire me to do something cool for you, please feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email me</a> at any time.  
+If you'd like to talk or hire me to do something cool for you, please feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email me</a> at any time.   
 
 <center><small><i>This site is still being built, so please pay no mind to the pages that don't have anything on them.</i></center></small>  
 
