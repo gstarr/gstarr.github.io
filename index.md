@@ -31,7 +31,7 @@ title:
   
 **Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team.   
 
-I do a lot of comedy/tech/journalism corrsover things, and my team just won [Comedy Hack Day](http://commedyhackday.org) with [Equipay](http://www.comedyhackday.org/demosmade/2016/1/28/equipay), a bill-splitting app that splits the bill fairly. No really, *fairly*. I was also a part of [the Useless Press](http://www.uselesspress.org/)'s Dreamz Team at the [Stupid Shit No One Needs & Terrible Ideas Hackathon](http://www.stupidhackathon.com), where I helped make an Ad Blocker for the physical realm while on a Greyhound bus from New York to D.C.     
+I do a lot of comedy/tech/journalism crossover things, and my team just won [Comedy Hack Day](http://commedyhackday.org) with [Equipay](http://www.comedyhackday.org/demosmade/2016/1/28/equipay), a bill-splitting app that splits the bill fairly. No really, *fairly*. I was also a part of [the Useless Press](http://www.uselesspress.org/)'s Dreamz Team at the [Stupid Shit No One Needs & Terrible Ideas Hackathon](http://www.stupidhackathon.com), where I helped make an ad blocker for the physical realm while on a Greyhound bus from New York to D.C.     
 
 My focus is on technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways.  
 
