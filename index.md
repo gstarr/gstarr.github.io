@@ -31,15 +31,13 @@ title:
   
 **Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team.   
 
-I do a lot of comedy/tech/journalism crossover things, and my team just won [Comedy Hack Day](http://commedyhackday.org) with [Equipay](http://www.comedyhackday.org/demosmade/2016/1/28/equipay), a bill-splitting app that splits the bill fairly. No really, *fairly*. I was also a part of [the Useless Press](http://www.uselesspress.org/)'s Dreamz Team at the [Stupid Shit No One Needs & Terrible Ideas Hackathon](http://www.stupidhackathon.com), where I helped make an ad blocker for the physical realm while on a Greyhound bus from New York to D.C.     
+I do a lot of comedy/tech/journalism wishy-washy crossover things. This year so far, my team won the grand prize at [Comedy Hack Day](http://commedyhackday.org) with the app [Equipay](http://www.comedyhackday.org/demosmade/2016/1/28/equipay), a "bill-splitting app that splits the bill fairly. No really, *fairly*." I was also a part of the [Useless Press](http://www.uselesspress.org/)'s Dreamz Team at the [Stupid Shit No One Needs & Terrible Ideas Hackathon](http://www.stupidhackathon.com), where I helped develop an ad blocker for the physical realm while on a Greyhound bus from New York to D.C.     
 
-My focus is on technically-driven, design-minded, creative, and inclusive journalism, and I care a lot about experimenting with new media to tell powerful and complex stories in innovative ways.  
+This summer, a thing I wrote went *sort-of viral*. Please [click here](https://storify.com/GrahamStarr/scott-walker-really-likes-hot-ham) to explore the fascinating story that is Wisconsin Governor Scott Walker's fascination with "hot ham" sandwiches.  
 
 In college, I was the Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I went to a college that wasn't Tufts. I revived the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental new media projects in addition to printing its [monthly magazine](http://dropr.com/gstarr/57501/humor_magazine_redesign/).    
 
 My résumé can be found by looking at [my résumé](http://gstarr.me/projects/resume).  
-
-I spend most of my time figuring out how to bridge comedy, technology, design, and journalism, and you can see some of [those efforts](http://gstarr.me/projects/misc) on this site. If I have any free time, you can find me memorizing public transportation lines, rock climbing, exploring the great outdoors and/or "[deep web](http://www.cachemonet.com/)", [making lists](http://www.gstarr.me/projects), [managing very silly domain names](http://beyonce.horse/), or teaching myself a new skill.   
 
 If you'd like to talk or hire me to do something cool for you, please feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email me</a> at any time.   
 
