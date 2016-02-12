@@ -9,7 +9,7 @@ title:
 <marquee direction="right" loop="1" scrollamount="5" style="position:absolute;right:0;z-index:-1;width:100%;">
 <img src="http://gstarr.me/projects/images/me.png" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="float:left;width:25%;margin-right:15px;margin-top:5px"> 
 </marquee>
-
+<!--
 <marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <marquee direction="right" loop="1" behavior="scroll" scrollamount="7">
 <img src="http://www.clipartbest.com/cliparts/dT6/o5b/dT6o5b7Ec.png" alt="DVD" title="remember this?"> 
@@ -27,7 +27,7 @@ title:
 
 <marquee direction="right" loop="2" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
-</marquee>    
+</marquee> -->    
   
 **Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team.   
 
