@@ -35,7 +35,7 @@ I do a lot of comedy/tech/journalism wishy-washy crossover things. In 2016 so fa
 
 This summer, I [wrote a thing](https://storify.com/GrahamStarr/scott-walker-really-likes-hot-ham) about Wisconsin Governor Scott Walker's fascination with "hot ham" sandwiches. It went *sort of viral* on "the Internet".  
 
-In college, I was the Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I went to a college that wasn't Tufts. I revived the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental new media projects in addition to printing its [monthly magazine](http://dropr.com/gstarr/57501/humor_magazine_redesign/).    
+In college, I was the Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I went to a college that wasn't Tufts, but makes total sense because I did. I revived the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental new media projects in addition to printing its [monthly magazine](http://dropr.com/gstarr/57501/humor_magazine_redesign/).    
 
 My résumé can be found by looking at [my résumé](http://gstarr.me/projects/resume).  
 
