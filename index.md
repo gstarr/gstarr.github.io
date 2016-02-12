@@ -29,7 +29,7 @@ title:
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
 </marquee> -->    
   
-**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team. Before that, I was a media consultant with the UN Refugee Agency, and *before that*, I was a [Dow Jones News Fund digital intern](www.csmonitor.com/About/People/Graham-Starr) with the Christian Science Monitor.   
+**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team.   
 
 I do a lot of comedy/tech/journalism wishy-washy crossover things. In 2016 so far, I participated in [Comedy Hack Day](http://commedyhackday.org) where my team, [Equipay](http://www.comedyhackday.org/demosmade/2016/1/28/equipay), won the grand prize with a "bill-splitting app that splits the bill fairly. No really, *fairly*." In February, I was part of the [Useless Press](http://www.uselesspress.org/)'s Dreamz Team at [Stupid Hackathon](http://www.stupidhackathon.com), where I helped develop an ad blocker for the physical realm while on a Greyhound bus from New York to D.C.     
 
