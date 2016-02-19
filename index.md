@@ -31,13 +31,13 @@ title:
   
 **Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team.   
 
-I do a lot of comedy/tech/journalism wishy-washy crossover things. In 2016 so far, I participated in [Comedy Hack Day](http://commedyhackday.org) where my team, [Equipay](http://www.comedyhackday.org/demosmade/2016/1/28/equipay), won the grand prize with a "bill-splitting app that splits the bill fairly. No really, *fairly*." In February, I was part of the [Useless Press](http://www.uselesspress.org/)'s Dreamz Team at [Stupid Hackathon](http://www.stupidhackathon.com), where I helped develop an ad blocker for the physical realm while on a Greyhound bus from New York to D.C.     
+I'm interested in experimental media and do a lot of comedy/tech/journalism wishy-washy crossover things. In 2016 so far, I participated in [Comedy Hack Day](http://commedyhackday.org) where my team, [Equipay](http://www.comedyhackday.org/demosmade/2016/1/28/equipay), won the grand prize with a "bill-splitting app that splits the bill fairly. No really, *fairly*." In February, I was part of the [Useless Press](http://www.uselesspress.org/)'s Dreamz Team at [Stupid Hackathon](http://www.stupidhackathon.com), where I helped develop an ad blocker for the physical realm while on a Greyhound bus from New York to D.C.     
 
-This summer, I [wrote a thing](https://storify.com/GrahamStarr/scott-walker-really-likes-hot-ham) about Wisconsin Governor Scott Walker's fascination with "hot ham" sandwiches. It went *sort of viral* on "the Internet".  
+This summer, I [wrote a thing](https://storify.com/GrahamStarr/scott-walker-really-likes-hot-ham) about Wisconsin Governor Scott Walker's fascination with "hot ham" sandwiches. It went *sort of viral* on The Internet™.  
 
 In college, I was the Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I went to a college that wasn't Tufts. I revived the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental new media projects in addition to printing its [monthly magazine](http://dropr.com/gstarr/57501/humor_magazine_redesign/).    
 
-My résumé can be found by looking at [my résumé](http://gstarr.me/projects/resume).  
+My résumé can be seen by looking at [my résumé](http://gstarr.me/projects/resume).  
 
 If you'd like to talk or hire me to do something cool for you, please feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email me</a> at any time.   
 
