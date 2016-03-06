@@ -29,17 +29,19 @@ title:
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
 </marquee> -->    
   
-**Graham Starr** (me) is a New York-based freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team.   
+**Graham Starr** (me) is a New York-based (though currently in D.C.) freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team.   
 
-I'm interested in experimental media and do a lot of comedy/tech/journalism wishy-washy crossover things. In 2016 so far, I participated in [Comedy Hack Day](http://commedyhackday.org) where my team, [Equipay](http://www.comedyhackday.org/demosmade/2016/1/28/equipay), won the grand prize with a "bill-splitting app that splits the bill fairly. No really, *fairly*." In February, I was part of the [Useless Press](http://www.uselesspress.org/)'s Dreamz Team at [Stupid Hackathon](http://www.stupidhackathon.com), where I helped develop an ad blocker for the physical realm while on a Greyhound bus from New York to D.C.     
+I'm interested in experimental media and do a lot of comedy/tech/journalism cool interdisciplinary crossover things. In 2016 so far, I participated in [Comedy Hack Day](www.comedyhackday.org/sf-2016) where my team, [EquiTable](http://www.equitableapp.com/) (formerly Equipay, but changed because of ~trademark~), won the grand prize with a bill-splitting app that splits the bill fairly. No really, *fairly*. In February, I was part of the [Useless Press](http://www.uselesspress.org/)'s Dreamz Team at [Stupid Hackathon](http://www.stupidhackathon.com), where I helped develop an ad blocker for the physical realm while on a Greyhound bus from New York to D.C.     
 
 This summer, I [wrote a thing](https://storify.com/GrahamStarr/scott-walker-really-likes-hot-ham) about Wisconsin Governor Scott Walker's fascination with "hot ham" sandwiches. It went *sort of viral* on The Internet™.  
 
+Before I was at The Atlantic, I was a media consultant with the UN Refugee Agency's (UNHCR) digital innovation lab. Before that, I was a Dow Jones News Fund digital intern at the Christian Science Monitor, writing about technology and acting as the mobile lead on the website's redesign team. In May 2015, I was the story designer for the Dow Jones News Fund's "[Phantom in Phoenix](http://djnf.atavist.com/)" multimedia reporting project.  
+
 In college, I was the Editor-in-Chief of [Tufts University's humor magazine](http://www.tuftszamboni.com/), which would be a weird sentence if I went to a college that wasn't Tufts. I revived the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental new media projects in addition to printing its [monthly magazine](http://dropr.com/gstarr/57501/humor_magazine_redesign/).    
 
-My résumé can be seen by looking at [my résumé](http://gstarr.me/projects/resume).  
+More of my résumé can be seen by looking at [my résumé](http://gstarr.me/projects/resume).  
 
-If you'd like to talk or hire me to do something cool for you, please feel free to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email me</a> at any time.   
+If you'd like to talk or hire me to do something cool for you, please <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email me</a> at any time. I'd love to hear from you!   
 
 <center><small><i>This site is still being built, so please pay no mind to the pages that don't have anything on them.</i></center></small>  
 
