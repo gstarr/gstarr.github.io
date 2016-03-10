@@ -7,10 +7,10 @@ permalink: /misc/
 <center><i>page under construction</i></center>  
 <br>
 
-**[Equipay](http://www.comedyhackday.org/demosmade/2016/1/28/equipay)** (Grand Prize Winner — Comedy Hack Day 10) *January 2016*   
+**[EquiTable (formerly Equipay)](http://www.equitableapp.com/)** (Grand Prize Winner — [Comedy Hack Day 10](http://www.comedyhackday.org/demosmade/2016/1/28/equipay)) *January 2016*   
 Bill splitting app to split the bill fairly. No really, *fairly*. Uses Bureau of Labor Statistics information to split bills among people in order to compensate for to systemic inequality. "Reparations, one meal at a time."   
 
-Featured in [the Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/02/08/the-fairest-and-funniest-way-to-split-the-dinner-bill/), [The Atlantic](http://www.theatlantic.com/notes/2016/02/want-to-pay-reparations-in-your-own-life-theres-an-app-for-that/460281/), [NPR](https://twitter.com/planetmoney/status/695708303180099584), and [Complex News](http://www.complex.com/life/2016/02/pay-reparations-with-equipay-the-app-that-splits-bills-according-to-privilege), among others   
+Featured in [the Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/02/08/the-fairest-and-funniest-way-to-split-the-dinner-bill/), [The Atlantic](http://www.theatlantic.com/notes/2016/02/want-to-pay-reparations-in-your-own-life-theres-an-app-for-that/460281/), [NPR](https://twitter.com/planetmoney/status/695708303180099584), [Quartz](http://qz.com/632803/would-you-use-an-app-that-splits-your-restaurant-bill-by-privilege/), [Huffington Post](http://www.huffingtonpost.com/entry/finally-an-app-that-splits-the-bill-so-that-white-men-pay-more_us_56d06dfae4b0871f60eb1181), [Mic](http://mic.com/articles/137083/this-app-promises-to-solve-the-wage-gap-when-it-s-time-to-pay-the-restaurant-bill#.bDbC2HQ64), [New York Magazine](http://nymag.com/thecut/2016/03/equitable-app-makes-men-pay.html), [TIME](http://time.com/money/4249664/equitable-app-wage-discrimination/), and [Complex News](http://www.complex.com/life/2016/02/pay-reparations-with-equipay-the-app-that-splits-bills-according-to-privilege), among others   
 
 Full app coming March 2016.  
 
