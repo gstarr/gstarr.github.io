@@ -23,7 +23,7 @@ title:
 <marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;width:100%;height:100%;">
 <marquee loop="1" behavior="scroll" direction="left" scrollamount="5">
 <h1>wow™ what a great website</h1>
-</marquee></marquee> 
+</marquee></marquee>   
 
 <marquee direction="right" loop="2" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
