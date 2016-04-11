@@ -19,7 +19,7 @@ Featured in [the Washington Post](https://www.washingtonpost.com/news/wonk/wp/20
 
   This ended up "going viral" within the political comedy community, with several thousand views and shares on Storify and Twitter.  
 
-**"[Phantom in Phoenix](http://djnf.atavist.com/)"** <small><i>Dow Jones News Fund — May 2015</small></i>    
+**"[Phantom in Phoenix](http://djnf.atavist.com/)"** <small><i>Dow Jones News Fund — May 2015</i></small>     
   When "The Phantom of the Opera" travels around the world, what comes with it? A look into the show's culture, history, commerce, and crew.
   
   Mobile-first, fully-integrated, multimedia reporting project created with 13 other student journalists as part of the [Dow Jones News Fund](http://www.newsfund.org)'s week-long digital journalism bootcamp at the Walter Cronkite School at Arizona State University. Acted as story designer and web editor for the project.  
