@@ -29,7 +29,7 @@ title:
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
 </marquee> -->       
   
-**Graham Starr** (me) is a New York-based (but currently in D.C.) freelance writer, designer, journalist, and humorist who makes things with computers and only speaks in the third person for one, self-referential sentence. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team.   
+**Graham Starr** (me) is a D.C.-based writer, designer, journalist, and humorist who makes things with computers. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team.   
 
 I'm interested in experimental media and comedy/tech/journalism cool intersectional interdisciplinary crossover things. In 2016 so far, I participated in [Comedy Hack Day](www.comedyhackday.org/sf-2016) where my team, [EquiTable](http://www.equitableapp.com/) won the grand-prize with a bill-splitting app that uses Bureau of Labor Statistics data to account for historic wage inequity (we were originally called [Equipay](https://www.youtube.com/watch?v=ZlR1Y2Lwz48), but changed our name because of ~trademark~). I have also done things with [Stupid Hackathon](http://www.stupidhackathon.com), [The Useless Press](http://www.uselesspress.org/), and [An Evening of Humorous Readings](http://humorousreadings.tumblr.com/).    
 
