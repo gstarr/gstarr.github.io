@@ -29,21 +29,19 @@ title:
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
 </marquee>        
   
-**Graham Starr** (me) is a D.C.-based writer, designer, journalist, and humorist who makes things with computers. Right now, I'm a fellow on [The Atlantic](http://www.theatlantic.com)'s [special projects](http://theatlantic.com/special-report) team.   
+**Graham Starr** (me) is a D.C.-based writer, designer, journalist, and humorist who makes things with computers, currently a fellow on *[The Atlantic](http://www.theatlantic.com)*'s [special projects](http://theatlantic.com/projects) team.   
 
-I'm interested in experimental media and comedy/tech/journalism cool intersectional interdisciplinary crossover things. In 2016 so far, I participated in [Comedy Hack Day](www.comedyhackday.org/sf-2016), where my team, [EquiTable](http://www.equitableapp.com/) (formerly [Equipay](https://www.youtube.com/watch?v=ZlR1Y2Lwz48)), won the grand prize with a [bill-splitting app](https://itunes.apple.com/us/app/equitable/id1089633422?ls=1&mt=8) that uses Bureau of Labor Statistics data to account for historic wage inequity. I have also done things with [Stupid Hackathon](http://www.stupidhackathon.com), [The Useless Press](http://www.uselesspress.org/), and [An Evening of Humorous Readings](http://humorousreadings.tumblr.com/).    
+I'm interested in experimental media and cool comedy/tech/journalism interdisciplinary crossover things. In 2016 so far, I participated in [Comedy Hack Day](www.comedyhackday.org/sf-2016), where my team, [EquiTable](http://www.equitableapp.com/) (formerly [Equipay](https://www.youtube.com/watch?v=ZlR1Y2Lwz48)), won the grand prize with a [bill-splitting app](https://itunes.apple.com/us/app/equitable/id1089633422?ls=1&mt=8) that uses Bureau of Labor Statistics data to ssplit the bill while accounting for historic wage inequity. I have also done things with [Stupid Hackathon](http://www.stupidhackathon.com), [The Useless Press](http://www.uselesspress.org/), and [An Evening of Humorous Readings](http://humorousreadings.tumblr.com/).    
 
-Before I was at *The Atlantic*, I was a media consultant with the UN Refugee Agency's [digital innovation incubator](http://projecthive.nyc/). Before that, I was a Dow Jones digital intern at the [Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr), where I wrote about technology and served as the mobile lead on the website's feature redesign. I was also the story designer and web editor for the *Dow Jones News Fund*'s "[Phantom in Phoenix](http://djnf.atavist.com/)" multimedia reporting project.  
-
-Last year, I [wrote a thing](https://storify.com/GrahamStarr/scott-walker-really-likes-hot-ham) about Wisconsin Governor Scott Walker's fascination with "hot ham" sandwiches. It's really strange and went *sort of viral* on The Internet™.   
+Before I was at *The Atlantic*, I was a media consultant with the UN Refugee Agency's [digital innovation incubator](http://projecthive.nyc/). Before that, I was a Dow Jones News Fund digital intern at the *[Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr)*, where I wrote about technology and served as the mobile lead on the website's feature redesign. I was also the story designer and web editor for the *Dow Jones News Fund*'s "[Phantom in Phoenix](http://djnf.atavist.com/)" multimedia reporting project.  
 
 In college, I was the Editor-in-Chief of Tufts University's humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*, which would be a weird sentence if I went to a college that wasn't Tufts. I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental comedy projects in addition to printing its monthly magazine.    
 
 More of my résumé can be seen by looking at [my résumé](http://gstarr.me/projects/resume).  
 
-If you'd like to talk or hire me to do something cool for you, please <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email me</a> at any time. I'd love to hear from you!   
+If you'd like to hire me to do something cool for you, or just want to chat, please don't hesitate to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">send me an email</a>. I'd love to hear from you!   
 
-<center><small><i>This site is eternally under construction, so please pay no mind to the pages that don't have anything on them.</i></center></small>  
+<center><small><i>This site is constantly under construction, so some pages are incomplete or perpetualy being updated.  ¯\_(ツ)_/¯</i></center></small>  
 
 <center>[<a href="https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F">PGP Public Key</a>]</center>
 
