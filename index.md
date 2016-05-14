@@ -29,7 +29,7 @@ title:
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
 </marquee>        
   
-**Graham Starr** (me) is a D.C.-based writer, designer, journalist, and humorist who makes things with computers, currently a fellow on *[The Atlantic](http://www.theatlantic.com)*'s [special projects](http://theatlantic.com/projects) team.   
+**Graham Starr** (me) is a D.C.-based writer, designer, journalist, and humorist who makes things with math, art, and computers. Currently, I'm a fellow on *[The Atlantic](http://www.theatlantic.com)*'s [special projects](http://theatlantic.com/projects) team.   
 
 I'm interested in experimental media and cool comedy/tech/journalism interdisciplinary crossover things. In 2016 so far, I participated in [Comedy Hack Day](www.comedyhackday.org/sf-2016), where my team, [EquiTable](http://www.equitableapp.com/) (formerly [Equipay](https://www.youtube.com/watch?v=ZlR1Y2Lwz48)), won the grand prize with a [bill-splitting app](https://itunes.apple.com/us/app/equitable/id1089633422?ls=1&mt=8) that uses Bureau of Labor Statistics data to ssplit the bill while accounting for historic wage inequity. I have also done things with [Stupid Hackathon](http://www.stupidhackathon.com), [The Useless Press](http://www.uselesspress.org/), and [An Evening of Humorous Readings](http://humorousreadings.tumblr.com/).    
 
