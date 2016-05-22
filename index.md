@@ -35,13 +35,13 @@ I'm interested in experimental media and cool comedy/tech/journalism crossover t
 
 Before I was at *The Atlantic*, I was a media consultant with the UN Refugee Agency's (UNHCR) [digital innovation incubator](http://projecthive.nyc/). Before that, I was a Dow Jones News Fund digital intern at the *[Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr)*, where I wrote about technology and served as the mobile lead on the website's feature redesign. I was also the story designer and web editor for the *Dow Jones News Fund*'s "[Phantom in Phoenix](http://djnf.atavist.com/)" multimedia reporting project.  
 
-In college, I was the Editor-in-Chief of Tufts University's humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*. That would have been a weird sentence if I went to a college that wasn't Tufts. I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental comedy projects in addition to printing its monthly magazine.    
+In college, I was the Editor-in-Chief of Tufts University's humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*. (That would have been a weird sentence if I went to a college that wasn't Tufts.) I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental comedy projects in addition to printing its monthly magazine.    
 
 More of my résumé can be seen by looking at [my résumé](http://gstarr.me/projects/resume).  
 
 If you'd like to hire me to do something cool for you, or just want to chat, please don't hesitate to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">send me an email</a>. I'd love to hear from you!   
 
-<center><small><i>This site is constantly under construction, so some pages are incomplete or perpetualy being updated.  ¯\_(ツ)_/¯</i></center></small>   
+<center><small><i>This site is constantly under construction, so some pages are incomplete or perpetually being updated.  ¯\_(ツ)_/¯</i></center></small>   
 
 <center>[<a href="https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F">PGP Public Key</a>]</center>
 
