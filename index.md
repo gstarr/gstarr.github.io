@@ -9,7 +9,7 @@ title:
 <marquee direction="right" loop="1" scrollamount="7" style="position:absolute;right:0;z-index:-1;width:100%;">
 <img src="http://gstarr.me/projects/images/me.png" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="float:left;width:25%;margin-right:15px;margin-top:5px"> 
 </marquee>
-<!--
+
 <marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <marquee direction="right" loop="1" behavior="scroll" scrollamount="7">
 <img src="http://www.clipartbest.com/cliparts/dT6/o5b/dT6o5b7Ec.png" alt="DVD" title="remember this?"> 
@@ -27,7 +27,7 @@ title:
 
 <marquee direction="right" loop="2" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
-</marquee> -->        
+</marquee>          
   
 **Graham Starr** (me) is a writer who makes things with math, art, and computers. Currently, I'm a fellow on *[The Atlantic](http://www.theatlantic.com)*'s [special projects](http://theatlantic.com/projects) team.   
 
@@ -35,7 +35,7 @@ I'm interested in experimental media and cool comedy/tech/journalism crossover t
 
 Before I was at *The Atlantic*, I was a media consultant with the UN Refugee Agency's (UNHCR) [digital innovation incubator](http://projecthive.nyc/). Before that, I was a Dow Jones News Fund digital intern at the *[Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr)*, where I wrote about technology and served as the mobile lead on the website's feature redesign. I was also the story designer and web editor for the *Dow Jones News Fund*'s "[Phantom in Phoenix](http://djnf.atavist.com/)" multimedia reporting project.  
 
-In college, I was the Editor-in-Chief of Tufts University's humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*. (That would have been a weird sentence if I went to a college that wasn't Tufts.) I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental comedy projects in addition to printing its monthly magazine.    
+In college, I was the wditor-in-chief of Tufts University's humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*. (That would have been a weird sentence if I went to a college that wasn't Tufts.) I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the decades-old publication, launching its first website and growing its staff from five to 60. Currently, the group is one of the most active on campus, developing experimental comedy projects in addition to printing its monthly magazine.    
 
 More of my résumé can be seen by looking at [my résumé](http://gstarr.me/projects/resume).  
 
