@@ -9,17 +9,17 @@ title:
 <marquee direction="right" loop="1" scrollamount="7" style="position:absolute;right:0;z-index:-1;width:100%;">
 <img src="http://gstarr.me/projects/images/me.png" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="float:left;width:25%;margin-right:15px;margin-top:5px"> 
 </marquee>
-<!--
+
 <marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <marquee direction="right" loop="1" behavior="scroll" scrollamount="7">
 <img src="http://www.clipartbest.com/cliparts/dT6/o5b/dT6o5b7Ec.png" alt="DVD" title="remember this?"> 
-</marquee></marquee>-->   
+</marquee></marquee>   
 
 <marquee direction="down" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;width:100%;height:100%;">
 <marquee loop="1" behavior="scroll" direction="left" scrollamount="7">
 <img src="http://i3.kym-cdn.com/photos/images/original/000/815/427/d71.gif" alt="HaHaHa" title="lol"> 
 </marquee></marquee>
-<!--
+
 <marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;width:100%;height:100%;">
 <marquee loop="1" behavior="scroll" direction="left" scrollamount="5">
 <h1>wow™ what a great website</h1>
@@ -27,7 +27,7 @@ title:
 
 <marquee direction="right" loop="2" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
-</marquee>-->          
+</marquee>          
   
 **Graham Starr** (me) is a writer and designer who makes things with math, art, and computers. Currently, I'm an editorial fellow on *[The Atlantic](http://www.theatlantic.com)*'s [special projects](http://theatlantic.com/projects) team.   
 
