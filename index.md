@@ -41,7 +41,7 @@ More of my résumé can be seen by looking at [my résumé](http://gstarr.me/pro
 
 If you'd like to hire me to do something cool for you, or just want to chat, please don't hesitate to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">send me an email</a>. I'd love to hear from you!   
 
-<center><small><i>This site is constantly under construction, so some pages are incomplete or perpetually being updated.  ¯\_(ツ)_/¯</i></center></small>   
+<center><small><i>This site is constantly under construction, so some pages are incomplete or perpetually being updated.<font style="font-family:sans-serif;"> ¯\_(ツ)_/¯</font></i></center></small>   
 
 <center>[<a href="https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F">PGP Public Key</a>]</center>
 
