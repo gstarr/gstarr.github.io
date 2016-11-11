@@ -4,7 +4,7 @@ title: <center>Writing</center>
 permalink: /writing/
 ---
 
-*These are <b>selected works</b>. You can see more clips <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">by sending me an email</a>.*
+*These are <b>selected works</b>. To see more, please <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">contact me</a>.*
 
 **Writing**
 
