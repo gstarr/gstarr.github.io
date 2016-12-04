@@ -10,10 +10,9 @@ permalink: /design/
 ## Art Direction   
 
 ### "Inside Jobs," a project of *The Atlantic*  
-<figure>
-<a href="www.theatlantic.com/projects/inside-jobs"><img src="https://cdn.theatlantic.com/assets/media/img/curation/homepage/2016_12/collage/465.jpg" alt="What American Workers Have to Say About Their Jobs" style="float:left;width:100%"></a>
-<figcaption>Rebecca Clarke / David Somerville</figcaption>
-</figure>   
+<a href="www.theatlantic.com/projects/inside-jobs"><img src="https://pbs.twimg.com/media/Cyh2u80WgAAhYvw.jpg:large" alt="What American Workers Have to Say About Their Jobs" style="width:100%"></a>
+<p align="right"><small>Rebecca Clarke / David Somerville / The Atlantic</small></p>  
+
 Worked with visuals editor Emily Epstein to commission and direct 103 illustrations by [Rebecca Clarke](http://rebeccaclarke.info/). Contributed to design process for final interactive dashboard.  
 
 ### The Zamboni  
