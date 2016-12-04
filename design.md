@@ -7,12 +7,29 @@ permalink: /design/
 <center><i>Content on this page is incomplete — sorry about that! I probably have designed/illustrated something similar to the thing you want to see, and you can <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">reach out</a> at any time if you want to see specific work and/or hire me.</i></center>  
   
 
+## Art Direction   
+
+### "Inside Jobs," a project of *The Atlantic*  
+<figure>
+<a href="www.theatlantic.com/projects/inside-jobs"><img src="https://cdn.theatlantic.com/assets/media/img/curation/homepage/2016_12/collage/465.jpg" alt="What American Workers Have to Say About Their Jobs" style="float:left;width:100%"></a>
+<figcaption>Rebecca Clarke / David Somerville</figcaption>
+</figure>   
+Worked with visuals editor Emily Epstein to commission and direct 103 illustrations by [Rebecca Clarke](http://rebeccaclarke.info/). Contributed to design process for final interactive dashboard.  
+
+### The Zamboni  
+<p>
+<a href="https://40.media.tumblr.com/455dc1850fa71ad22829d8375d16be7d/tumblr_nftqnse8DV1tgpm0zo2_r2_1280.png">
+<img src="https://40.media.tumblr.com/455dc1850fa71ad22829d8375d16be7d/tumblr_nftqnse8DV1tgpm0zo2_r2_1280.png" alt="The Giving BMW" title="The Zamboni Vol. XXV, No. 1" style="float:left;width:100%;margin-right:15px;">
+</a></p>  
+<p><b>The Giving BMW</b> written by Paul Templeton, appearing in <a href="http://issuu.com/zamboni/docs/vol_xxvi__issue_1/21"><i>The Zamboni</i> Vol. XXV, No. 1: "The Outdated Issue"</a>. Illustrated with Craig Drennan.</p>   
+
+
 ## Story Design   
 
 "[Phantom in Phoenix](http://djnf.atavist.com/)" *Dow Jones News Fund*  
 When "The Phantom of the Opera" travels around the world, what travels with it? A look into the show's culture, crew, history, and commerce.   
 
-## Editorial and Mobile  
+## Mobile  
 
 ### The Christian Science Monitor
 
@@ -26,11 +43,3 @@ Major implementations: Menu shows recommended articles, as well as articles in t
 
 Redesign initially planned for end-of-year 2015 but postponed due to organization restructuring.        
 
-## Illustration and Art Direction   
-
-### The Zamboni  
-<p>
-<a href="https://40.media.tumblr.com/455dc1850fa71ad22829d8375d16be7d/tumblr_nftqnse8DV1tgpm0zo2_r2_1280.png">
-<img src="https://40.media.tumblr.com/455dc1850fa71ad22829d8375d16be7d/tumblr_nftqnse8DV1tgpm0zo2_r2_1280.png" alt="The Giving BMW" title="The Zamboni Vol. XXV, No. 1" style="float:left;width:100%;margin-right:15px;">
-</a></p>  
-<p><b>The Giving BMW</b> written by Paul Templeton, appearing in <a href="http://issuu.com/zamboni/docs/vol_xxvi__issue_1/21"><i>The Zamboni</i> Vol. XXV, No. 1: "The Outdated Issue"</a>. Illustrated with Craig Drennan.
