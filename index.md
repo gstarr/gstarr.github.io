@@ -44,6 +44,7 @@ If you'd like to hire me to do something cool for you, or just want to chat, ple
 <center><small><i>This site is constantly under construction, so some pages are incomplete or perpetually being updated.<font style="font-family:sans-serif;"> ¯\_(ツ)_/¯</font></i></small></center>   
 
 <center>[<a href="https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F">PGP Public Key</a>]</center>
+<center><small>PGP Fingerprint: <font style="font-family:Courier">E1CB E7BF 0A23 D2BC C616 2A65 DB0D 92DF 71F4 416F</font></small></center>
 
 <div class="home">
 <!--
