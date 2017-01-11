@@ -29,7 +29,7 @@ title:
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
 </marquee> -->          
   
-**Graham Starr** (me) is a writer and designer who makes things with math, art, and computers. Currently, I’m on staff on *[The Atlantic](http://www.theatlantic.com)*’s [special projects](http://theatlantic.com/projects) team, where I build and edit cool features (like [a retrospective on the Obama presidency](https://www.theatlantic.com/projects/the-obama-era/) or an [oral history of the American workforce](http://www.theatlantic.com/projects/inside-jobs/)).   
+**Graham Starr** (me) is a writer and designer who makes things with math, art, and computers. Currently, I’m an editorial fellow on *[The Atlantic](http://www.theatlantic.com)*’s [special projects](http://theatlantic.com/projects) team, where I build and edit cool features (such as [a retrospective on the Obama presidency](https://www.theatlantic.com/projects/the-obama-era/) or an [oral history of the American workforce](http://www.theatlantic.com/projects/inside-jobs/)).   
 
 I'm interested in experimental media and the intersection of comedy, tech, and journalism. This past year, I participated in [Comedy Hack Day](www.comedyhackday.org/sf-2016), where my team, [EquiTable](http://www.equitableapp.com/), [won the grand prize](https://www.youtube.com/watch?v=ZlR1Y2Lwz48) with a bill-splitting app that uses Bureau of Labor Statistics data to account for historic wage inequity. I also did things with [Stupid Hackathon](http://www.stupidhackathon.com) and [The Useless Press](http://www.uselesspress.org/), and read jokes with [An Evening of Humorous Readings](http://humorousreadings.tumblr.com/).    
 
