@@ -5,10 +5,13 @@ title:
 
 ## Hello!  
 
-<!-- <marquee direction="down" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;"> -->
+<marquee direction="right" loop="1" scrollamount="7" style="position:absolute;right:0;z-index:-1;width:100%;">
+<h1>wow™ what a <br> great website</h1>
+</marquee>
+<!-- <marquee direction="down" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;"> --> <!--
 <marquee direction="right" loop="1" scrollamount="7" style="position:absolute;right:0;z-index:-1;width:100%;">
 <img src="http://gstarr.me/projects/images/me.png" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="float:left;width:25%;margin-right:15px;margin-top:5px"> 
-</marquee>
+</marquee> -->
 <!--
 <marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
 <marquee direction="right" loop="1" behavior="scroll" scrollamount="7">
