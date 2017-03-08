@@ -1,3 +1,3 @@
 # Projects
 
-Creating a projects list page in Jekyll
+Building a projects page and portfolio
