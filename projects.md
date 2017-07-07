@@ -4,7 +4,7 @@ title:  <center> Miscellaneous Projects </center>
 permalink: /misc/
 ---
 
-<center><i>selected projects</i></center>  
+<center><i>selected works</i></center>  
 <br>    
 
 
