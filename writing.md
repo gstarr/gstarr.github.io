@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <center>Writing</center>
+title: <center>Words</center>
 permalink: /writing/
 ---
 
