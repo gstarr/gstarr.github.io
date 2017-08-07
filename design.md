@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <center>Design</center>
+title: <center>Art & Design</center>
 permalink: /design/
 ---
 
