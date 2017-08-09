@@ -30,7 +30,7 @@ title:
 <img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
 </marquee> -->          
   
-**Graham Starr** (me) is a journalist, editor, and designer who makes things with math, art, and computers. I focus on interactive projects, digital features, and investigations ([here is my PGP key](https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F)). Currently, I'm on staff at [*WIRED*](https://www.wired.com/) magazine as the assistant to the editor-in-chief.   
+**Graham Starr** (me) is a journalist and editor who makes things with math, art, and computers. I focus on interactive projects, digital features, and investigations ([here is my PGP key](https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F)). Currently, I'm on staff at [*WIRED*](https://www.wired.com/) magazine as the assistant to the editor-in-chief.   
 
 Before I was at *WIRED*, I was a member of *[The Atlantic](http://www.theatlantic.com)*’s ✨[special projects](http://theatlantic.com/projects) team✨ where I built, managed, and edited cool features (such as [a retrospective](https://www.theatlantic.com/projects/the-obama-era/) on the Obama presidency, [an oral history](http://www.theatlantic.com/projects/inside-jobs/) of the American workforce, and [an interactive](https://www.theatlantic.com/timeline/) on how the world has changed during your lifetime (the last of which won a [2017 MPA Imagination Award](http://www.magazine.org/events/past-events/imagination-awards-2017))).   
 
