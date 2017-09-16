@@ -38,7 +38,7 @@ I occasionally work with NYU's [Interactive Telecommunications Program](https://
 
 I'm interested in experimental media and the intersection of comedy, tech, and journalism. In 2016, I participated in [Comedy Hack Day](http://www.comedyhackday.org/sf-2016), where my team, [EquiTable](http://www.equitableapp.com/), won the grand prize with a bill-splitting app that used Bureau of Labor Statistics data to account for historic wage inequity.   
 
-Before I was at *The Atlantic*, I was a media consultant with the UN Refugee Agency's (UNHCR) [special projects unit](http://projecthive.nyc/). Before that, I was a *Dow Jones News Fund* digital intern at the *[Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr)*, where I wrote about technology and served on the digital design team. I was also the story designer and web editor for the *Dow Jones News Fund*’s "[Phantom in Phoenix](http://djnf.atavist.com/)" multimedia reporting project.   
+Before I was at *The Atlantic*, I was a media consultant with the UN Refugee Agency's [special projects unit](http://projecthive.nyc/). Before that, I was a *Dow Jones News Fund* digital intern at the *[Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr)*, where I wrote about technology and served on the digital design team. I was also the story designer and web editor for the *Dow Jones News Fund*’s "[Phantom in Phoenix](http://djnf.atavist.com/)" multimedia reporting project.   
 
 In a previous life (before media), I was an intelligence analyst focusing on science and technology, like a narc.     
 
