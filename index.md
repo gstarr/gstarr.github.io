@@ -34,7 +34,7 @@ title:
 
 Before I was at *WIRED*, I was a member of *[The Atlantic](http://www.theatlantic.com)*’s ✨[special projects](http://theatlantic.com/projects) team✨ where I built, managed, and edited cool features (such as [a retrospective](https://www.theatlantic.com/projects/the-obama-era/) on the Obama presidency, [an oral history](http://www.theatlantic.com/projects/inside-jobs/) of the American workforce, and [an interactive](https://www.theatlantic.com/timeline/) on how the world has changed during your lifetime (the last of which won a [2017 MPA Imagination Award](http://www.magazine.org/events/past-events/imagination-awards-2017)!)).   
 
-I occasionally work with NYU's [Interactive Telecommunications Program](https://itp.nyu.edu/). Most recently, I was an “Instigator” and session leader at the program’s [ITP Camp](https://itp.nyu.edu/camp2017/), where I helped lead workshops on media, art, and technology.      
+I occasionally work with NYU's [Interactive Telecommunications Program](https://itp.nyu.edu/). Most recently, I was an “Instigator” at the program’s [ITP Camp](https://itp.nyu.edu/camp2017/), where I helped lead workshops on media, art, and technology.      
 
 I'm interested in experimental media and the intersection of comedy, tech, and journalism. In 2016, I participated in [Comedy Hack Day](http://www.comedyhackday.org/sf-2016), where my team, [EquiTable](http://www.equitableapp.com/), won the grand prize with a bill-splitting app that used Bureau of Labor Statistics data to account for historic wage inequity.   
 
