@@ -36,7 +36,7 @@ Before I was at *WIRED*, I was a member of *[The Atlantic](http://www.theatlanti
 
 I'm interested in experimental media and the intersection of comedy, tech, and journalism. In 2016, I participated in [Comedy Hack Day](www.comedyhackday.org/sf-2016), where my team, [EquiTable](http://www.equitableapp.com/), won the grand prize with a bill-splitting app that uses Bureau of Labor Statistics data to account for historic wage inequity.   
 
-I occasionally work with NYU's [Interactive Telecommunications Program](https://itp.nyu.edu/). Most recently, I was an “Instigator” at the program’s [ITP Camp](https://itp.nyu.edu/camp2017/), where I helped lead workshops on media, art, and technology.      
+I occasionally work with NYU's [Interactive Telecommunications Program](https://itp.nyu.edu/). Most recently, I was an “Instigator” and session leader at the program’s [ITP Camp](https://itp.nyu.edu/camp2017/), where I helped lead workshops on media, art, and technology.      
 
 Before I was at *The Atlantic*, I was a media consultant with the UN Refugee Agency's (UNHCR) [special projects unit](http://projecthive.nyc/). Before that, I was a *Dow Jones News Fund* digital intern at the *[Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr)*, where I wrote about technology and served on the digital design team. I was also the story designer and web editor for the *Dow Jones News Fund*’s "[Phantom in Phoenix](http://djnf.atavist.com/)" multimedia reporting project.   
 
