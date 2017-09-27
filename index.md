@@ -42,7 +42,7 @@ Before I was at *The Atlantic*, I was a media consultant with the UN Refugee Age
 
 In a previous life (before media), I was an intelligence analyst focusing on science and technology, like a narc.     
 
-In college, I was the editor-in-chief of Tufts University's humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*, which would be a weird sentence if I didn't go to Tufts. I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the then-25-year-old publication, launching its first website and growing its staff from five to 60. The group's official constitution is [pretty wild](https://twitter.com/GrahamStarr/status/798772163855532032).      
+In college, I was the editor-in-chief of Tufts University's humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*. I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the then-25-year-old publication, launched its first website, and grew its staff from five to 60. The group's official constitution is [pretty wild](https://twitter.com/GrahamStarr/status/798772163855532032).      
 
 More of my résumé can be seen by looking at [my résumé](http://gstarr.me/projects/resume).  
 
