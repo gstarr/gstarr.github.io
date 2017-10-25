@@ -40,8 +40,6 @@ I'm interested in experimental media and the intersection of comedy, tech, and j
 
 Before I was at *The Atlantic*, I was a media consultant with the UN Refugee Agency's [special projects unit](http://projecthive.nyc/). Before that, I was a *Dow Jones News Fund* digital intern at the *[Christian Science Monitor](http://www.csmonitor.com/About/People/Graham-Starr)*, where I wrote about technology and served on the digital design team. I was also the story designer and web editor for the *Dow Jones News Fund*’s "[Phantom in Phoenix](http://djnf.atavist.com/)" multimedia reporting project.   
 
-Before I entered media, I was an intelligence analyst covering science and technology.   
-
 In college, I was the editor-in-chief of Tufts University's humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*. I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the then-25-year-old publication, launched its first website, and grew its staff from five to 60. The group's official constitution is [pretty wild](https://twitter.com/GrahamStarr/status/798772163855532032).      
 
 More of my résumé can be seen by looking at [my résumé](http://gstarr.me/projects/resume).  
