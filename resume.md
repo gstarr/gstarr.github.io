@@ -4,6 +4,6 @@ title: <center>Résumé<center>
 permalink: /resume/
 ---
 
-*I will soon have a text resume here that you can very easily search through. In the mean time, I have attached a [pdf version of my life]({{ site.url }}/images/resume.pdf) up to this point.*
+*I'm sorry this hasn't been updated in a while! But you can still see an outdated version by looking at [an old résumé]({{ site.url }}/images/resume.pdf) below.*
 
 [![resume]({{ site.url }}/images/resume.png "Graham Starr's Resume")]({{ site.url }}/images/resume.pdf)
