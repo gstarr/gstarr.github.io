@@ -22,6 +22,6 @@ permalink: /writing/
 **Editing**
 
 - "[To Be Both Midwestern and Hmong](http://www.theatlantic.com/politics/archive/2016/06/wausau-wisconsin-southeast-asia-hmong/485291/)" by Doualy Xaykaothao,  *The Atlantic*  
-— "[Trading Persian Tea for Seattle Coffee](https://www.theatlantic.com/business/archive/2016/05/iranians-in-seattle/481401/)" by Kaveh Waddell,  *The Atlantic*  
+- "[Trading Persian Tea for Seattle Coffee](https://www.theatlantic.com/business/archive/2016/05/iranians-in-seattle/481401/)" by Kaveh Waddell,  *The Atlantic*  
 - "[The Education of Ryan Lochte](http://www.theatlantic.com/national/archive/2016/08/the-education-of-ryan-lochte/496880/)" by Deborah Fallows,  *The Atlantic*  
 - "[Phantom in Phoenix](http://djnf.atavist.com/)"  *Dow Jones News Fund*
