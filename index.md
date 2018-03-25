@@ -36,7 +36,7 @@ I was most recently on staff at [*WIRED*](https://www.wired.com/) magazine as th
 
 I occasionally work with NYU's [Interactive Telecommunications Program](https://itp.nyu.edu/). Most recently, I was an “Instigator” at the program’s [ITP Camp](https://itp.nyu.edu/camp2017/), where I helped lead workshops on media, art, and technology.      
 
-I'm interested in experimental media and the intersection of comedy, tech, and journalism. In 2016, I participated in [Comedy Hack Day](http://www.comedyhackday.org/sf-2016), where my team, [EquiTable](http://www.equitableapp.com/), won the grand prize with a bill-splitting app that used Bureau of Labor Statistics data to account for historic wage inequity.    
+I'm interested in experimental storytelling and the intersection of comedy, tech, and journalism. In 2016, I participated in [Comedy Hack Day](http://www.comedyhackday.org/sf-2016), where my team, [EquiTable](http://www.equitableapp.com/), won the grand prize with a bill-splitting app that used Bureau of Labor Statistics data to account for historic wage inequity.    
 
 In college, I was the editor-in-chief of Tufts University's humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*. I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the then-25-year-old publication, launched its first website, and grew its staff from five to 60. The group's official constitution is [pretty wild](https://twitter.com/GrahamStarr/status/798772163855532032).      
 
