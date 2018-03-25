@@ -42,7 +42,7 @@ In college, I was the editor-in-chief of Tufts University's humor magazine, *[Th
 
 More of my résumé can be seen by looking at [my résumé](http://gstarr.me/projects/resume).  
 
-If you'd like to hire me to do something cool for you, or just want to chat, please don't hesitate to <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">send me an email</a>. I'd love to hear from you!   
+If you'd like to hire me to do something cool for you, or just want to chat, please <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">send me an email</a>. I'd love to hear from you!   
 
 <center><small>PGP Fingerprint: <font style="font-family:Courier">E1CB E7BF 0A23 D2BC C616 2A65 DB0D 92DF 71F4 416F</font></small></center>  
 
