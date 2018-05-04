@@ -10,7 +10,7 @@ permalink: /misc/
 ## The Atlantic  
 
 **[Life Timeline](https://www.theatlantic.com/timeline/)** <small>Editorial Lead // February 2017</small>  
-Immersive interactive project showing how the world has changed during your lifetime. Worked for almost a year with freelancers, editors, designers, and developers to create and shape the database that powers the timeline. [Here](http://www.thedrum.com/news/2017/03/01/how-the-atlantic-created-personalized-timeline-your-life) is a write-up of the project and interview with my editor on the project. Winner of the [2017 Magazine Imagination Award](http://www.magazine.org/events/past-events/imagination-awards-2017).   
+Immersive interactive project showing how the world has changed during your lifetime. Worked for almost a year with freelancers, editors, designers, and developers to create and shape the database that powers the timeline. [Here](http://www.thedrum.com/news/2017/03/01/how-the-atlantic-created-personalized-timeline-your-life) is a write-up of the project and interview with my editor on the project. Winner of the [2017 MPA Imagination Award](http://www.magazine.org/events/past-events/imagination-awards-2017).   
 
 **[Inside Jobs](https://www.theatlantic.com/projects/inside-jobs/)** <small>Assistant Art Director // November 2016</small>   
 An oral history of the American workforce. Worked with visuals editor Emily Epstein to commission and direct 103 illustrations by [Rebecca Clarke](http://rebeccaclarke.info). Contributed to design process for final interactive dashboard.  
