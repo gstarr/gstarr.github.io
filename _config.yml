@@ -2,7 +2,7 @@
 title:       Graham Starr | Projects and Portfolio
 email:       hello@gstarr.me
 author:      Graham Starr
-description: "Graham Starr is a journalist, designer, developer, and humorist currently at WIRED. This is his portfolio."
+description: "Graham Starr is a journalist and editor making things with art and code. This is his portfolio."
 baseurl:     "/projects"
 url:         "http://gstarr.me/projects"
 date_format: "%b %-d, %Y"
