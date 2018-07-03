@@ -11,4 +11,4 @@ I love to talk about technology, art, media, and comedy, and the new ways we mak
 
 ### Recent:  
 * **Del Close Marathon** (2017) - Comedy and Technology
-* **NYU's Interactive Tellecommunications Program** (2017) - Using Public Data for Art
+* **NYU's Interactive Telecommunications Program** (2017) - Using Public Data for Art
