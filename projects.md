@@ -7,6 +7,13 @@ permalink: /misc/
 <center><i>selected works</i></center>  
 <br>    
 
+
+## New York Magazine  
+
+**[Home Smart Home](http://nymag.com/selectall/smarthome/)** <small>Editor // March 2018</small>  
+A new pop-up blog under [Select All](http://nymag.com/selectall), *New York* Magazine's technology site. I'm the senior editor of a 120-story feature package about smart homes, artificial intelligence, and the future of living in an increasingly connected world.   
+
+
 ## The Atlantic  
 
 **[Life Timeline](https://www.theatlantic.com/timeline/)** <small>Editorial Lead // February 2017</small>  
@@ -17,12 +24,6 @@ An oral history of the American workforce. Worked with visuals editor Emily Epst
 
 **[The Obama Era](https://www.theatlantic.com/projects/the-obama-era/)** <small>Editor // December 2016</small>  
 A retrospective on the Obama presidency tied to Ta-Nehisi Coates's January 2017 [cover story](https://www.theatlantic.com/magazine/archive/2017/01/my-president-was-black/508793/) for *The Atlantic*, featuring interviews with Barack Obama and essays from public intellectuals.  
-
-
-## New York Magazine  
-
-**[Home Smart Home](http://nymag.com/selectall/smarthome/)** <small>Editor // March 2018</small>  
-A new pop-up blog under [Select All](http://nymag.com/selectall), *New York* Magazine's technology site. Assign and edit stories about smart homes, artificial intelligence, and the future of living in an increasingly connected world.   
 
 
 ## Miscellaneous  
