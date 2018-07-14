@@ -22,6 +22,7 @@ permalink: /writing/
 
 **Writing**  
 
+- "[My Donald Trump Jr. Shadow Instagram Feed](https://slate.com/human-interest/2018/07/my-donald-trump-jr-shadow-instagram-feed-what-i-learned-from-mimicking-his-likes-and-follows.html)"  *Slate* . 
 - "[Is Wikipedia Foreshadowing Clinton's Vice-Presidential Pick?](http://www.theatlantic.com/politics/archive/2016/07/is-wikipedia-foreshadowing-clintons-vice-presidential-pick/492629/)"  *The Atlantic*   
 - "[What happens when Facebook says you don't exist?](http://www.csmonitor.com/Technology/2015/0702/What-happens-when-Facebook-says-you-don-t-exist)" *Christian Science Monitor*  
 - "[The Data Drive presents the Weird Wide Web of underground internet art](https://www.csmonitor.com/Technology/2015/0805/The-Data-Drive-presents-the-Weird-Wide-Web-of-underground-digital-art)" *Christian Science Monitor*    
