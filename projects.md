@@ -10,7 +10,10 @@ permalink: /misc/
 
 ## New York Magazine  
 
-**[Home Smart Home](http://nymag.com/selectall/smarthome/)** <small>Editor // March 2018</small>  
+**[Developing](http://nymag.com/developing/)** <small>Editor // October 2018</small>  
+A pop-up blog under the new [Intelligencer](http://nymag.com/intelligencer). Edited a 60-story feature package about global technology.    
+
+**[Home Smart Home](http://nymag.com/selectall/smarthome/)** <small>Editor // March-August 2018</small>  
 A new pop-up blog under [Select All](http://nymag.com/selectall), *New York* Magazine's technology site. I'm the senior editor of a 120-story feature package about smart homes, artificial intelligence, and the future of living in an increasingly connected world.   
 
 
