@@ -4,7 +4,7 @@ title: <center>Résumé<center>
 permalink: /resume/
 ---
 
-##Professional Experience
+## Professional Experience  
 
 **Senior Staff Editor** | *The New York Times*  
 <small><i>Nov. 2018 – Present</i></small>  
@@ -32,5 +32,5 @@ permalink: /resume/
 **General Manager** | *91.5fm WMFO Freeform Radio*  
 <small><i>May 2012 – May 2014</i></small>  
 
-**Volunteer Coordinator** | [*MEVO*](https://www.mevo.org/)  
+**Volunteer Coordinator** | [MEVO](https://www.mevo.org/)  
 <small><i>June 2008 – Aug. 2011</i></small>
