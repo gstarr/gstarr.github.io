@@ -27,7 +27,7 @@ title:
 
 <marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;width:100%;height:100%;">
 <marquee loop="2" behavior="scroll" direction="left" scrollamount="5">
-  <h1><a href="http://graham.substack.com/">I have a newsletter now</a></h1>
+  <h1><font color="blue">I have a newsletter now</font><br><i>http://graham.substack.com/</i></h1>
 </marquee></marquee>   
   
 **Graham Starr** (me) is a journalist, editor, and comedian who makes things with math, art, and computers. I focus on interactive projects, digital features, and investigations ([here is my PGP key](https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F) and [email](mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21)). I’ve written about technology for *Wired*, *The Atlantic*, *New York* Magazine, [*Slate*](https://slate.com/human-interest/2018/07/my-donald-trump-jr-shadow-instagram-feed-what-i-learned-from-mimicking-his-likes-and-follows.html), and the *Christian Science Monitor*’s Passcode, and my projects have been featured in the *Washington Post*, *Fortune*, NPR, and HuffPost, among others. (It’s possible you heard about me from a recent episode of [*On Margins*](https://craigmod.com/onmargins/005/).) Breitbart once wrote an article about [one of my projects](http://www.breitbart.com/tech/2016/02/24/new-app-splits-dinner-bills-according-to-race-and-gender/) and they put my name in scare-quotes for the entire thing. It was weird!         
