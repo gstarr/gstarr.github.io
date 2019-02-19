@@ -1,8 +1,8 @@
 # Site settings
-title:       Graham Starr | Projects and Portfolio
+title:       Graham Starr | Special Projects Editor
 email:       hello@gstarr.me
 author:      Graham Starr
-description: "Graham Starr is a journalist and editor making things with art and code. This is his portfolio."
+description: "Graham Starr is a journalist and editor making things with art and code. This is his website."
 baseurl:     "/projects"
 url:         "http://gstarr.me/projects"
 date_format: "%b %-d, %Y"
