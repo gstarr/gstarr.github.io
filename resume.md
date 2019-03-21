@@ -8,6 +8,8 @@ permalink: /resume/
 
 **Senior Staff Editor** | *The New York Times*  
 <small><i>Nov. 2018 – Present</i></small>  
+* An editor on the special sections desk, assigning and editing feature packages across a range of subjects; digital editor for the desk.  
+* Previously an editor on the Express desk: general assignment, breaking, and internet-driven news.  
 
 **Freelance Special Projects Editor** | *New York Magazine*  
 <small><i>March 2018 – Nov. 2018</i></small>  
