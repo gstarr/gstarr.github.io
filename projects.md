@@ -38,7 +38,7 @@ Bill splitting app to split the bill fairly. No really, *fairly*. Uses Bureau of
   *When "The Phantom of the Opera" travels around the world, what comes with it? A look into the show's culture, history, commerce, and crew.*  
     Mobile-first, fully-integrated, multimedia reporting project created with 13 other student journalists as part of the [Dow Jones News Fund](http://www.newsfund.org)'s week-long digital journalism bootcamp at the Walter Cronkite School at Arizona State University.   
 
-# Clips
+****  
 
 ## Editing  
 
