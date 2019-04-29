@@ -40,7 +40,7 @@ Bill splitting app to split the bill fairly. No really, *fairly*. Uses Bureau of
 
 ****  
 
-## Editing  
+## Editing Clips  
 
 - "[In Puerto Rico, Building a Disaster-Proof Business Is Part of Recovery](https://www.nytimes.com/2019/04/09/business/puerto-rico-parallel18-hurricane-economy.html)" by Molly Schwartz, *The New York Times*    
 - "[How Times Reporters Froze a Fatal Moment on a Protest Field in Gaza](https://www.nytimes.com/2018/12/30/reader-center/gaza-medic-israel-shooting-video-investigation.html)" by Malachy Browne, *The New York Times*    
@@ -51,7 +51,7 @@ Bill splitting app to split the bill fairly. No really, *fairly*. Uses Bureau of
 - "[To Be Both Midwestern and Hmong](http://www.theatlantic.com/politics/archive/2016/06/wausau-wisconsin-southeast-asia-hmong/485291/)" by Doualy Xaykaothao,  *The Atlantic*  
 
 
-## Writing  
+## Writing Clips   
 
 - "[My Donald Trump Jr. Shadow Instagram Feed](https://slate.com/human-interest/2018/07/my-donald-trump-jr-shadow-instagram-feed-what-i-learned-from-mimicking-his-likes-and-follows.html)"  *Slate*  
 - "[Is Wikipedia Foreshadowing Clinton's Vice-Presidential Pick?](http://www.theatlantic.com/politics/archive/2016/07/is-wikipedia-foreshadowing-clintons-vice-presidential-pick/492629/)" — Scoop: Used Wikipedia edit history to track the Clinton campaign's announcement schedule, and predicted the selection of Tim Kaine as V.P. pick.   *The Atlantic*
