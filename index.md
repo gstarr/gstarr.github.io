@@ -31,7 +31,7 @@ title:
   <h3><i>http://graham.substack.com/</i></h3>
 </marquee></marquee> -->   
   
-**Graham Starr** (me) is a journalist and editor making things with math, art, and computers, currently working on new ways to bring the news to readers at [*The New York Times*](https://www.nytimes.com/). I focus on features, digital projects, and investigations, and edit stories about business and technology. (To reach me securely, use my [PGP public key](https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F) when you [send me an email](mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21); here is a [guide to setting up PGP](https://lifehacker.com/how-to-encrypt-your-email-180878).)   
+**Graham Starr** (me) is a journalist and editor making things with math, art, and computers, currently working on new ways to bring the news to readers at [*The New York Times*](https://www.nytimes.com/). I focus on features, digital projects, and investigations, and edit stories about business and technology. (To reach me securely, use my [PGP public key](https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F) when you [send me an email](mailto:&#109;&#97;&#105;&#108;&#116;&#111;&#58;%67%73%74%61%72%72%40%6E%79%74%69%6D%65%73%2E%63%6F%6D?subject=Hi%20Graham%21); here is a [guide to setting up PGP](https://lifehacker.com/how-to-encrypt-your-email-180878).)   
 
 I’ve written about business and technology for *The New York Times*, *Wired*, *The Atlantic*, *New York* Magazine, [*Slate*](https://slate.com/human-interest/2018/07/my-donald-trump-jr-shadow-instagram-feed-what-i-learned-from-mimicking-his-likes-and-follows.html), and the *Christian Science Monitor*’s Passcode, and my [projects](https://gstarr.me/projects/misc/) have been featured in the *Washington Post*, *Fortune*, NPR, and HuffPost, among others. In 2017, I was part of the team that won a Magazine Publishers Award for work on an [interactive timeline](https://www.theatlantic.com/timeline). Breitbart once wrote about [one of my projects](https://www.youtube.com/watch?v=r2ybupRgffE) and [put my name in scare-quotes](http://www.breitbart.com/tech/2016/02/24/new-app-splits-dinner-bills-according-to-race-and-gender/) for the entire thing. It was weird!         
 
@@ -43,7 +43,7 @@ In college, I was editor-in-chief of Tufts University’s humor magazine, *[The 
 
 More of my résumé can be seen by looking at [my résumé](http://gstarr.me/projects/resume).  
 
-I'm most easily reached by <a href="mailto:&#104;&#101;&#108;&#108;&#111;&#064;&#103;&#115;&#116;&#097;&#114;&#114;&#046;&#109;&#101;?subject=Hi%20Graham%21">email</a> or [Twitter](https://twitter.com/grahamstarr). I’d love to hear from you!   
+I'm most easily reached by <a href="mailto:&#109;&#97;&#105;&#108;&#116;&#111;&#58;%67%73%74%61%72%72%40%6E%79%74%69%6D%65%73%2E%63%6F%6D?subject=Hi%20Graham%21">email</a> or [Twitter](https://twitter.com/grahamstarr). I’d love to hear from you!   
 
 <center><small>PGP Fingerprint: <font style="font-family:Courier">E1CB E7BF 0A23 D2BC C616 2A65 DB0D 92DF 71F4 416F</font></small></center>  
 
