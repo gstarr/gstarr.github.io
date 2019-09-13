@@ -1,6 +1,6 @@
 # Site settings
 title:       Graham Starr, a Web Site
-email:       hello@gstarr.me
+email:       gstarr@nytimes.com
 author:      Graham Starr
 description: "Graham Starr is a journalist and editor making things with art and code. This is his website."
 baseurl:     "/projects"
@@ -48,7 +48,7 @@ show_all_social:
 
 # Post sharing icons
 show_sharing_icons: false
-share_text: 'Share this plz!'
+share_text: 
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: true
