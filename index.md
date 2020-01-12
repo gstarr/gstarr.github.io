@@ -39,7 +39,7 @@ At [*The New York Times*](https://www.nytimes.com/), I'm a senior staff editor w
 
 I occasionally work with NYU’s [Interactive Telecommunications Program](https://itp.nyu.edu/), where I lead workshops on media, art, and technology for the program’s [summer camp](https://itp.nyu.edu/camp2017/).      
 
-In college, I was editor-in-chief of Tufts University’s humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*. I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the then-25-year-old publication, launched its first website, and grew its staff from five to 60. The group’s official constitution is [pretty wild](https://twitter.com/GrahamStarr/status/798772163855532032).      
+<!-- In college, I was editor-in-chief of Tufts University’s humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*. I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the then-25-year-old publication, launched its first website, and grew its staff from five to 60. The group’s official constitution is [pretty wild](https://twitter.com/GrahamStarr/status/798772163855532032). -->     
 
 More of my résumé can be seen by looking at [my résumé](http://gstarr.me/projects/resume).  
 
