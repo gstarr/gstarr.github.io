@@ -6,24 +6,10 @@ title:
 ## Hello!   
 
   
-<!-- <marquee direction="down" behavior="alternate" style="position:absolute;top:0;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;"> --> 
+ 
 <marquee direction="right" loop="1" scrollamount="7" style="position:absolute;right:0;z-index:-1;width:100%;">
 <img src="http://gstarr.me/projects/images/me.png" alt="it me!" title="it me! (Photo credit: Kristie Chua)" style="float:left;width:25%;margin-right:15px;margin-top:5px"> 
 </marquee>  
-<!--
-<marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
-<marquee direction="right" loop="1" behavior="scroll" scrollamount="7">
-<img src="http://www.clipartbest.com/cliparts/dT6/o5b/dT6o5b7Ec.png" alt="DVD" title="remember this?"> 
-</marquee></marquee>   
-
-<marquee direction="down" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;width:100%;height:100%;">
-<marquee loop="1" behavior="scroll" direction="left" scrollamount="7">
-<img src="http://i3.kym-cdn.com/photos/images/original/000/815/427/d71.gif" alt="HaHaHa" title="lol"> 
-</marquee></marquee>
-
-<marquee direction="right" loop="2" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;height:100%;width:100%;">
-<img src="http://build.gstarr.me/portfolio2/tvbkgnd.gif" alt="unicorn.gif" title="I am disrupting the Net" style="width:10%;"> 
-</marquee> -->
 <!--
 <marquee direction="up" behavior="alternate" style="position:absolute;bottom:0;left:0;right:0;z-index:-1;width:100%;height:100%;">
 <marquee loop="2" behavior="scroll" direction="left" scrollamount="5">
@@ -33,7 +19,7 @@ title:
   
 **Graham Starr** (me) is a journalist making things with math, art, and computers, currently senior editor at [*Business Insider*](https://www.businessinsider.com/sai), where I oversee technology coverage. (To reach me securely, use my [PGP public key](https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F) when you [send me an email](mailto:gstarr@insider.com?subject=Hi%20Graham%21); here is a [guide to setting up PGP](https://lifehacker.com/how-to-encrypt-your-email-180878).)   
 
-I’ve written about business and technology for *The New York Times*, *Wired*, *The Atlantic*, *New York* Magazine, and Slate, and my [projects](https://gstarr.me/projects/misc/) have been featured in the *Washington Post*, *Fortune*, NPR, and HuffPost, among others. In 2017, I was part of the team that won a Magazine Publishers Award for work on an [interactive timeline](https://www.theatlantic.com/timeline). Breitbart once wrote about [one of my projects](https://www.youtube.com/watch?v=r2ybupRgffE) and [put my name in scare-quotes](http://www.breitbart.com/tech/2016/02/24/new-app-splits-dinner-bills-according-to-race-and-gender/) for the entire thing. It was weird!         
+I’ve written about business and technology for *The New York Times*, *Wired*, *The Atlantic*, *New York* Magazine, and Slate, and my [projects](https://gstarr.me/projects/misc/) have been featured in the *Washington Post*, *Fortune*, NPR, and HuffPost, among others. In 2017, I was part of the team that won an ASME Award for work on an [interactive timeline](https://www.theatlantic.com/timeline). Breitbart once wrote about [one of my projects](https://www.youtube.com/watch?v=r2ybupRgffE) and [put my name in scare-quotes](http://www.breitbart.com/tech/2016/02/24/new-app-splits-dinner-bills-according-to-race-and-gender/) for the entire thing. It was weird!         
 
 Before *Business Insider*, I was a senior staff editor at [*The New York Times*](https://www.nytimes.com/) where I worked on features, digital projects, visual storytelling packages, and breaking news, and edited and reported stories about business and technology. Before The *Times*, I was a special projects editor at [*New York* Magazine](http://nymag.com), where I edited pop-up blogs and feature packages for [Select All](https://nymag.com/selectall), the magazine's tech blog. Before *New York*, I was the research assistant to [*WIRED*](https://www.wired.com/)’s editor-in-chief, Nicholas Thompson. And before *WIRED*, I was a member of [*The Atlantic*](https://www.theatlantic.com)’s [special projects](https://theatlantic.com/projects) team. Before that, I was a teenager and, earlier, a baby.
 
