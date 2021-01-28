@@ -6,8 +6,12 @@ permalink: /resume/
 
 ## Professional Experience  
 
+**Senior Tech Editor** | *Business Insider*  
+<small><i>Dec. 2019 – Present</i></small>  
+* Lead 10-person reporting team covering tech news and investigating Big Tech companies and Silicon Valley power players.   
+
 **Senior Staff Editor** | *The New York Times*  
-<small><i>Nov. 2018 – Present</i></small>  
+<small><i>Nov. 2018 – Dec. 2019</i></small>  
 * Building an experimental new product and desk for timely news, exploring new avenues of visual storytelling; evening editor on desk managing team of three reporters and editors.   
 * Frequent editor and [occasional writer](https://www.nytimes.com/2019/07/15/your-money/how-financially-stable-investing.html) for the Business desk.  
 * Previously on the special sections desk, assigning and editing feature packages across a range of subjects; digital editor for the desk. Before, an editor on the Express desk: general assignment, breaking, and internet-driven news.  
