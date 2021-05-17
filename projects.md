@@ -43,6 +43,7 @@ Bill splitting app to split the bill fairly. No really, *fairly*. Uses Bureau of
 ## Editing Clips  
 
 - "[In Puerto Rico, Building a Disaster-Proof Business Is Part of Recovery](https://www.nytimes.com/2019/04/09/business/puerto-rico-parallel18-hurricane-economy.html)" by Molly Schwartz, *The New York Times*    
+- "[The Disappeared Children of Israel](https://www.nytimes.com/2019/02/20/world/middleeast/israel-yemenite-children-affair.html)" by Malin Fezehai, *The New York Times* 
 - "[How Times Reporters Froze a Fatal Moment on a Protest Field in Gaza](https://www.nytimes.com/2018/12/30/reader-center/gaza-medic-israel-shooting-video-investigation.html)" by Malachy Browne, *The New York Times*    
 - "[This Website Is Carried by the Ocean: A tale of two towns, 10,000 miles apart, connected by mud and light.](http://nymag.com/developing/2018/11/this-url-is-wind-beneath-the-waves.html)" by Molly Schwartz, *New York Magazine*    
 - "[Upload Your Prayers to the Virgin of Guadalupe](http://nymag.com/developing/2018/11/basilica-of-guadalupe-mexico-digital-pilgrimage-usb.html)" by Ellen Freeman, *New York Magazine*    
