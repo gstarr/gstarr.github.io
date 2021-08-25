@@ -31,7 +31,7 @@ I occasionally work with NYU’s [Interactive Telecommunications Program](https:
 
 More of my résumé can be seen by looking at [my résumé](http://gstarr.me/resume).  
 
-Here is my <a href="mailto:&#103;&#115;&#116;&#097;&#114;&#114;&#064;&#105;&#110;&#115;&#105;&#100;&#101;&#114;&#046;&#099;&#111;&#109?subject=Hi%20Graham%21">email</a> and [Twitter](https://twitter.com/grahamstarr).     
+Here is my <a href="mailto:&#103;&#115;&#116;&#097;&#114;&#114;&#064;&#105;&#110;&#115;&#105;&#100;&#101;&#114;&#046;&#099;&#111;&#109;?subject=Hi%20Graham%21">email</a> and [Twitter](https://twitter.com/grahamstarr).     
 
 <center><small>PGP Fingerprint: <font style="font-family:Courier">E1CB E7BF 0A23 D2BC C616 2A65 DB0D 92DF 71F4 416F</font></small></center>  
 
