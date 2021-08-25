@@ -1,11 +1,20 @@
 ---
 layout: page
-title:  <center> Miscellaneous Projects </center>
-permalink: /misc/
+title:  <center> Projects and Clips </center>
+permalink: /clips/
 ---
 
-<center><i>selected works</i></center>  
-<br>    
+## Editing Clips  
+
+- "[DeepMind's cofounder was placed on leave after employees complained about bullying and humiliation for years. Then Google made him a VP.](https://www.businessinsider.com/deepmind-mustafa-suleyman-google-allegations-bullying-settlements-2021-8)" by Martin Coulter and Hugh Langley, *Insider*
+- "[In Puerto Rico, Building a Disaster-Proof Business Is Part of Recovery](https://www.nytimes.com/2019/04/09/business/puerto-rico-parallel18-hurricane-economy.html)" by Molly Schwartz, *The New York Times*    
+- "[The Disappeared Children of Israel](https://www.nytimes.com/2019/02/20/world/middleeast/israel-yemenite-children-affair.html)" by Malin Fezehai, *The New York Times* 
+- "[How Times Reporters Froze a Fatal Moment on a Protest Field in Gaza](https://www.nytimes.com/2018/12/30/reader-center/gaza-medic-israel-shooting-video-investigation.html)" by Malachy Browne, *The New York Times*    
+- "[This Website Is Carried by the Ocean: A tale of two towns, 10,000 miles apart, connected by mud and light.](http://nymag.com/developing/2018/11/this-url-is-wind-beneath-the-waves.html)" by Molly Schwartz, *New York Magazine*    
+- "[Upload Your Prayers to the Virgin of Guadalupe](http://nymag.com/developing/2018/11/basilica-of-guadalupe-mexico-digital-pilgrimage-usb.html)" by Ellen Freeman, *New York Magazine*    
+- "[My Ex Blocked Me on Social Media — But He Forgot About Venmo](http://nymag.com/intelligencer/2018/05/my-ex-forgot-to-block-me-on-venmo.html)" by Melania Hidalgo, *New York Magazine*    
+- "[I Tried to Build *Parks and Recreation*'s DJ Roomba, and It Nearly Broke Me](http://nymag.com/selectall/smarthome/how-to-build-dj-roomba-smart-speaker.html)" by Devon Ivie,  *New York Magazine*   
+- "[To Be Both Midwestern and Hmong](http://www.theatlantic.com/politics/archive/2016/06/wausau-wisconsin-southeast-asia-hmong/485291/)" by Doualy Xaykaothao,  *The Atlantic*  
 
 
 ## New York Magazine  
@@ -38,21 +47,8 @@ Bill splitting app to split the bill fairly. No really, *fairly*. Uses Bureau of
   *When "The Phantom of the Opera" travels around the world, what comes with it? A look into the show's culture, history, commerce, and crew.*  
     Mobile-first, fully-integrated, multimedia reporting project created with 13 other student journalists as part of the [Dow Jones News Fund](http://www.newsfund.org)'s week-long digital journalism bootcamp at the Walter Cronkite School at Arizona State University.   
 
-****  
 
-## Editing Clips  
-
-- "[In Puerto Rico, Building a Disaster-Proof Business Is Part of Recovery](https://www.nytimes.com/2019/04/09/business/puerto-rico-parallel18-hurricane-economy.html)" by Molly Schwartz, *The New York Times*    
-- "[The Disappeared Children of Israel](https://www.nytimes.com/2019/02/20/world/middleeast/israel-yemenite-children-affair.html)" by Malin Fezehai, *The New York Times* 
-- "[How Times Reporters Froze a Fatal Moment on a Protest Field in Gaza](https://www.nytimes.com/2018/12/30/reader-center/gaza-medic-israel-shooting-video-investigation.html)" by Malachy Browne, *The New York Times*    
-- "[This Website Is Carried by the Ocean: A tale of two towns, 10,000 miles apart, connected by mud and light.](http://nymag.com/developing/2018/11/this-url-is-wind-beneath-the-waves.html)" by Molly Schwartz, *New York Magazine*    
-- "[Upload Your Prayers to the Virgin of Guadalupe](http://nymag.com/developing/2018/11/basilica-of-guadalupe-mexico-digital-pilgrimage-usb.html)" by Ellen Freeman, *New York Magazine*    
-- "[My Ex Blocked Me on Social Media — But He Forgot About Venmo](http://nymag.com/intelligencer/2018/05/my-ex-forgot-to-block-me-on-venmo.html)" by Melania Hidalgo, *New York Magazine*    
-- "[I Tried to Build *Parks and Recreation*'s DJ Roomba, and It Nearly Broke Me](http://nymag.com/selectall/smarthome/how-to-build-dj-roomba-smart-speaker.html)" by Devon Ivie,  *New York Magazine*   
-- "[To Be Both Midwestern and Hmong](http://www.theatlantic.com/politics/archive/2016/06/wausau-wisconsin-southeast-asia-hmong/485291/)" by Doualy Xaykaothao,  *The Atlantic*  
-
-
-## Writing Clips   
+## Reporting Clips   
 
 - "[My Donald Trump Jr. Shadow Instagram Feed](https://slate.com/human-interest/2018/07/my-donald-trump-jr-shadow-instagram-feed-what-i-learned-from-mimicking-his-likes-and-follows.html)"  *Slate*  
 - "[Is Wikipedia Foreshadowing Clinton's Vice-Presidential Pick?](http://www.theatlantic.com/politics/archive/2016/07/is-wikipedia-foreshadowing-clintons-vice-presidential-pick/492629/)" — Scoop: Used Wikipedia edit history to track the Clinton campaign's announcement schedule, and predicted the selection of Tim Kaine as V.P. pick.   *The Atlantic*
