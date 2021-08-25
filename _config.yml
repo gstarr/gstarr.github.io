@@ -3,8 +3,8 @@ title:       Graham Starr, a Web Site
 email:       gstarr@businessinsider.com
 author:      Graham Starr
 description: "Graham Starr is a journalist and editor making things with art and code. This is his website."
-baseurl:     "/"
-url:         "http://gstarr.me/"
+baseurl:     ""
+url:         "https://gstarr.me/"
 date_format: "%b %-d, %Y"
 
 # Google services
