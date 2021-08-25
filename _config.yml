@@ -1,10 +1,10 @@
 # Site settings
 title:       Graham Starr, a Web Site
-email:       gstarr@nytimes.com
+email:       gstarr@businessinsider.com
 author:      Graham Starr
 description: "Graham Starr is a journalist and editor making things with art and code. This is his website."
-baseurl:     "/projects"
-url:         "http://gstarr.me/projects"
+baseurl:     "/"
+url:         "http://gstarr.me/"
 date_format: "%b %-d, %Y"
 
 # Google services
