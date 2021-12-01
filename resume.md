@@ -6,9 +6,11 @@ permalink: /resume/
 
 ## Professional Experience  
 
-**Senior Tech Editor** | *Business Insider*  
+**Senior Tech Editor, Big Tech team leader** | *Business Insider*  
 <small><i>Dec. 2019 – Present</i></small>  
-* Lead 10-person reporting team covering tech news and investigating Big Tech companies and Silicon Valley power players.   
+* Lead Business Insider's subscription tech vertical, managing team of 12 reporters and editors investigating FAANG companies and Big Tech.  
+* Work across newsroom to guide global tech coverage and build network of freelance contributors and special reports.  
+* Previously tech news editor, leading team of 10 reporters and managing the website’s coverage of Silicon Valley.  
 
 **Senior Staff Editor** | *The New York Times*  
 <small><i>Nov. 2018 – Dec. 2019</i></small>  
