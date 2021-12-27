@@ -33,9 +33,9 @@ More of my résumé can be seen by looking at [my résumé](http://gstarr.me/res
 
 Here is my <a href="mailto:&#103;&#115;&#116;&#097;&#114;&#114;&#064;&#105;&#110;&#115;&#105;&#100;&#101;&#114;&#046;&#099;&#111;&#109;?subject=Hi%20Graham%21">email</a> and [Twitter](https://twitter.com/grahamstarr).     
 
-<center><small>PGP Fingerprint: <font style="font-family:Courier">E1CB E7BF 0A23 D2BC C616 2A65 DB0D 92DF 71F4 416F</font></small></center>  
+<center><small>PGP Fingerprint: <font style="font-family:Courier">F7A1 4436 92D2 BD87 5CEE  D19A 6356 22B1 2A5E E096</font></small></center>  
 
-<center>[<a href="https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F">PGP Public Key</a>]</center>  
+<center>[<a href="http://pgp.mit.edu/pks/lookup?op=get&search=0x635622B12A5EE096">PGP Public Key</a>]</center>  
 
 
 <div class="home">
