@@ -23,7 +23,7 @@ I’ve written about business and technology for *The New York Times*, *Wired*, 
 
 Before *Business Insider*, I was a senior staff editor at [*The New York Times*](https://www.nytimes.com/), working mostly on breaking news, business news, and special sections. I was also a founding editor of “Happening Now,” an experiment in visual news that’s now part of The *Times’* homepage. Before The *Times*, I was a special projects editor at [*New York* Magazine](http://nymag.com)'s tech site, [Select All](https://nymag.com/selectall). I previously worked for [*WIRED*](https://www.wired.com/) and [*The Atlantic*](https://www.theatlantic.com/projects).
 
-I've also worked with NYU’s [Interactive Telecommunications Program](https://itp.nyu.edu/) to lead workshops on media, art, and technology. (Want me to speak to your class, [send me an email](mailto:gstarr321@gmail.com?subject=Hi%20Graham%21)!)       
+I've also worked with NYU’s [Interactive Telecommunications Program](https://itp.nyu.edu/) to lead workshops on media, art, and technology. (Want me to speak to your class? [Send me an email](mailto:gstarr321@gmail.com?subject=Hi%20Graham%21)!)       
 
 More of my résumé can be seen by looking at [my résumé](http://gstarr.me/resume). I'm also on [Twitter](https://twitter.com/grahamstarr).     
 
