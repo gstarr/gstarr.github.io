@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  <center> Projects and Clips </center>
-permalink: /clips/
+permalink: /projects/
 ---
 
 ## Editing Clips  
