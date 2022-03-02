@@ -17,21 +17,17 @@ title:
   <h3><i>http://graham.substack.com/</i></h3>
 </marquee></marquee> -->   
   
-I'm **Graham Starr**, a journalist and website based in New York City, currently senior editor at [*Business Insider*](https://www.businessinsider.com/sai), where I oversee technology coverage. (To reach me securely, use my [PGP public key](https://pgp.mit.edu/pks/lookup?op=get&search=0xDB0D92DF71F4416F) when you [send me an email](mailto:gstarr@insider.com?subject=Hi%20Graham%21); here is a [guide to setting up PGP](https://lifehacker.com/how-to-encrypt-your-email-180878).)   
+I'm **Graham Starr**, a journalist and website based in New York, currently senior tech editor at [*Business Insider*](https://www.businessinsider.com/sai), where I lead a reporting team investigating the most powerful companies in the world. (Got a tip? [Send me an email](mailto:&#103;&#115;&#116;&#097;&#114;&#114;&#064;&#105;&#110;&#115;&#105;&#100;&#101;&#114;&#046;&#099;&#111;&#109;?subject=Hi%20Graham%21) using a nonwork device. [Use PGP](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x) for extra security. [Here is my PGP public key](http://pgp.mit.edu/pks/lookup?op=get&search=0x635622B12A5EE096).)   
 
-I’ve written about business and technology for *The New York Times*, *Wired*, *The Atlantic*, *New York* Magazine, and Slate, and my [projects](https://gstarr.me/clips/) have been featured in the *Washington Post*, *Fortune*, NPR, and HuffPost, among others. In 2017, I was part of the team that won an ASME Award for work on an [interactive timeline](https://www.theatlantic.com/timeline). Breitbart once wrote about [one of my projects](https://www.youtube.com/watch?v=r2ybupRgffE) and [put my name in scare-quotes](http://www.breitbart.com/tech/2016/02/24/new-app-splits-dinner-bills-according-to-race-and-gender/) for the entire thing. It was weird!         
+I’ve written about business and technology for *The New York Times*, *Wired*, *The Atlantic*, *New York* Magazine, and Slate, and my [projects](https://gstarr.me/clips/) have been featured in the *Washington Post*, *Fortune*, NPR, and HuffPost, among others. In 2017, I was part of a team at *The Atlantic* that won an ASME Award for work on an [interactive timeline](https://www.theatlantic.com/timeline).         
 
-Before *Business Insider*, I was a senior staff editor at [*The New York Times*](https://www.nytimes.com/), working mostly on breaking news, business news, and feature packages. I was also a founding editor of “Happening Now,” an experiment in visual news that’s now part of the *Times’* homepage. Before The *Times*, I was a special projects editor at [*New York* Magazine](http://nymag.com), where I edited pop-up blogs and feature packages for [Select All](https://nymag.com/selectall), the magazine's tech site. I previously worked for [*WIRED*](https://www.wired.com/) and [*The Atlantic*](https://theatlantic.com/projects).   
+Before *Business Insider*, I was a senior staff editor at [*The New York Times*](https://www.nytimes.com/), working mostly on breaking news, business news, and special sections. I was also a founding editor of “Happening Now,” an experiment in visual news that’s now part of The *Times’* homepage. Before The *Times*, I was a special projects editor at [*New York* Magazine](http://nymag.com)'s tech site, [Select All](https://nymag.com/selectall). I previously worked for [*WIRED*](https://www.wired.com/) and [*The Atlantic*](https://www.theatlantic.com/projects).
 
-Before journalism, I was a teenager and, earlier, a baby.
+Before journalism, I was a teenager and, earlier, a baby.  
 
-I occasionally work with NYU’s [Interactive Telecommunications Program](https://itp.nyu.edu/), where I lead workshops on media, art, and technology.      
+I've also worked with NYU’s [Interactive Telecommunications Program](https://itp.nyu.edu/) to lead workshops on media, art, and technology. (Want me to speak to your class, [send me an email](mailto:gstarr321@gmail.com?subject=Hi%20Graham%21)!)       
 
-<!-- In college, I was editor-in-chief of Tufts University’s humor magazine, *[The Zamboni](http://www.tuftszamboni.com/)*. I revived and [redesigned](http://dropr.com/gstarr/57501/humor_magazine_redesign/) the then-25-year-old publication, launched its first website, and grew its staff from five to 60. The group’s official constitution is [pretty wild](https://twitter.com/GrahamStarr/status/798772163855532032). -->     
-
-More of my résumé can be seen by looking at [my résumé](http://gstarr.me/resume).  
-
-Here is my <a href="mailto:&#103;&#115;&#116;&#097;&#114;&#114;&#064;&#105;&#110;&#115;&#105;&#100;&#101;&#114;&#046;&#099;&#111;&#109;?subject=Hi%20Graham%21">email</a> and [Twitter](https://twitter.com/grahamstarr).     
+More of my résumé can be seen by looking at [my résumé](http://gstarr.me/resume). I'm also on [Twitter](https://twitter.com/grahamstarr).     
 
 <center><small>PGP Fingerprint: <font style="font-family:Courier">F7A1 4436 92D2 BD87 5CEE  D19A 6356 22B1 2A5E E096</font></small></center>  
 
