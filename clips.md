@@ -6,7 +6,10 @@ permalink: /projects/
 
 ## Editing Clips  
 
-- "[DeepMind's cofounder was placed on leave after employees complained about bullying and humiliation for years. Then Google made him a VP.](https://www.businessinsider.com/deepmind-mustafa-suleyman-google-allegations-bullying-settlements-2021-8)" by Martin Coulter and Hugh Langley, *Insider*
+- "[DeepMind's cofounder was placed on leave after employees complained about bullying and humiliation for years. Then Google made him a VP.](https://www.businessinsider.com/deepmind-mustafa-suleyman-google-allegations-bullying-settlements-2021-8)" by Martin Coulter and Hugh Langley, *Insider*  
+- "[Google, Amazon, and Microsoft have taken advantage of a commonly used but little-known tool to quietly enter dozens of contracts with ICE and CBP](https://www.businessinsider.com/google-amazon-microsoft-ice-cbp-third-party-contracts-cloud-2021-10)" by Caroline Haskins, *Insider*  
+- [Series of investigations into Amazon's unrelenting work culture and HR machine](https://www.businessinsider.com/work-at-amazon-jobs-performance-reviews-hiring-firing-interviews-warehouses-delivery-drivers), by Eugene Kim, Ashley Stewart, and Katherine Long, *Insider*  
+- "[Uber drivers who were promised coronavirus sick pay have had their accounts closed and claims rejected](https://www.businessinsider.com/uber-sick-pay-drivers-eligible-covid-19-coronavirus-financial-assistance-2020-3)" by Tyler Sonnemaker, *Insider*  
 - "[In Puerto Rico, Building a Disaster-Proof Business Is Part of Recovery](https://www.nytimes.com/2019/04/09/business/puerto-rico-parallel18-hurricane-economy.html)" by Molly Schwartz, *The New York Times*    
 - "[The Disappeared Children of Israel](https://www.nytimes.com/2019/02/20/world/middleeast/israel-yemenite-children-affair.html)" by Malin Fezehai, *The New York Times* 
 - "[How Times Reporters Froze a Fatal Moment on a Protest Field in Gaza](https://www.nytimes.com/2018/12/30/reader-center/gaza-medic-israel-shooting-video-investigation.html)" by Malachy Browne, *The New York Times*    
