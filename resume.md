@@ -43,7 +43,7 @@ permalink: /resume/
 
 ## Fun stuff    
 
-**Editor-in-Chief** | *The Zamboni humor magazine*  
+**Editor-in-Chief** | *The Zamboni magazine*  
 <small><i>Apr. 2013 – May 2015</i></small>  
 
 **General Manager** | *91.5fm WMFO Freeform Radio*  
