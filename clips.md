@@ -1,10 +1,8 @@
 ---
 layout: page
-title:  <center> Projects and Clips </center>
+title:  Editing Clips
 permalink: /projects/
 ---
-
-## Editing Clips  
 
 ### *Business Insider*  
 
@@ -47,7 +45,7 @@ permalink: /projects/
 - "[To Be Both Midwestern and Hmong](http://www.theatlantic.com/politics/archive/2016/06/wausau-wisconsin-southeast-asia-hmong/485291/)" by Doualy Xaykaothao,  *The Atlantic*  
 
 
-## Selected projects
+## Projects
 
 ### New York Magazine
 
