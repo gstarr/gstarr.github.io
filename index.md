@@ -17,7 +17,7 @@ title:
   <h3><i>http://graham.substack.com/</i></h3>
 </marquee></marquee> -->   
   
-I'm **Graham Starr**, a journalist and website based in New York, currently senior tech editor at [*Business Insider*](https://www.businessinsider.com/sai), where I lead a reporting team investigating the world's most powerful companies. (Got a tip? [Send me an email](mailto:&#103;&#115;&#116;&#097;&#114;&#114;&#064;&#105;&#110;&#115;&#105;&#100;&#101;&#114;&#046;&#099;&#111;&#109;?subject=Hi%20Graham%21) using a nonwork device. [Use PGP](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x) for extra security. [Here is my PGP public key](http://pgp.mit.edu/pks/lookup?op=get&search=0x635622B12A5EE096).)   
+I'm **Graham Starr**, a journalist and website based in New York, currently senior tech editor at [*Business Insider*](https://www.businessinsider.com/sai), where I lead a reporting team investigating the world's most powerful companies. (Got a tip? [Send me an email](mailto:&#103;&#115;&#116;&#97;&#114;&#114;&#51;&#50;&#49;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;?subject=Hi%20Graham%21) using a nonwork device. [Use PGP](https://ssd.eff.org/en/module/how-use-pgp-mac-os-x) for extra security. [Here is my PGP public key](http://pgp.mit.edu/pks/lookup?op=get&search=0x635622B12A5EE096).)   
 
 I’ve written about business and technology for *The New York Times*, *Wired*, *The Atlantic*, *New York* Magazine, and Slate, and my [projects and artworks](https://gstarr.me/projects/) have been featured in the *Washington Post*, *Fortune*, NPR, and HuffPost, among others. In 2017, I was part of a team at *The Atlantic* that won an ASME Award for work on an [interactive timeline](https://www.theatlantic.com/timeline).         
 
