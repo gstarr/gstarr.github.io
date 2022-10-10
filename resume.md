@@ -6,10 +6,14 @@ permalink: /resume/
 
 ## Professional Experience  
 
+**Global Business Editor** | *Bloomberg News*  
+<small><i>Sep. 2022 – Present</i></small>  
+* Editor working across the Americas companies news desk, covering health care, consumer, media, and transportation, among others.  
+  
 **Senior Tech Editor, Big Tech team leader** | *Business Insider*  
-<small><i>Dec. 2019 – Present</i></small>  
-* Lead Business Insider's subscription tech vertical, managing team of 12 reporters and editors investigating FAANG companies and Big Tech.  
-* Work across newsroom to guide global tech coverage and build network of freelance contributors and special reports.  
+<small><i>Dec. 2019 – Aug. 2022</i></small>  
+* Led Business Insider's subscription tech vertical, managing team of 12 reporters and editors investigating FAANG companies and Big Tech.  
+* Worked across newsroom to guide global tech coverage and build network of freelance contributors and special reports.  
 * Previously tech news editor, leading team of 10 reporters and managing the website’s coverage of Silicon Valley.  
 
 **Senior Staff Editor** | *The New York Times*  
