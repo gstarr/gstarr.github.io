@@ -8,7 +8,7 @@ permalink: /resume/
 
 **Global Business Editor** | *Bloomberg News*  
 <small><i>Sep. 2022 – Present</i></small>  
-* Editor working across the Americas companies news desk, covering health care, consumer, media, and transportation, among others.  
+* Editor working across the Americas companies news desk, covering health care, consumer, media, industrials, and transportation, among others.  
   
 **Senior Tech Editor, Big Tech team leader** | *Business Insider*  
 <small><i>Dec. 2019 – Aug. 2022</i></small>  
